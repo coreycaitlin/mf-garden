@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Western Bleeding Heart
+![Western Bleeding Heart](../images/western-bleeding-heart.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Dicentra_formosa_6897.JPG) | CC BY-SA 3.0*
+
 
 ## Basic information
 - **Scientific name:** Dicentra formosa

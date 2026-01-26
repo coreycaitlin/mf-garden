@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Manzanita
+![Manzanita](../images/manzanita.jpg)
+*Photo: [NoahElhardt](https://commons.wikimedia.org/wiki/File:Arctostaphylos_columbiana.jpg) | CC BY-SA 2.5*
+
 
 ## Basic information
 - **Scientific name:** Arctostaphylos columbiana (Hairy Manzanita)

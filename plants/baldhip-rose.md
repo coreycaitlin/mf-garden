@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Baldhip Rose
+![Baldhip Rose](../images/baldhip-rose.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Rosa_gymnocarpa_15142.JPG) | CC BY 2.5*
+
 
 ## Basic information
 - **Scientific name:** Rosa gymnocarpa

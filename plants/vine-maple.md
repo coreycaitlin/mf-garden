@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Vine Maple
+![Vine Maple](../images/vine-maple.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Acer_circinatum_10751.JPG) | CC BY 2.5*
+
 
 ## Basic information
 - **Scientific name:** Acer circinatum

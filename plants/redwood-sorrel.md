@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Redwood Sorrel
+![Redwood Sorrel](../images/redwood-sorrel.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Oxalis_oregana_06104.JPG) | CC BY 2.5*
+
 
 ## Basic information
 - **Scientific name:** Oxalis oregana

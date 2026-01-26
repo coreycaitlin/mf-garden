@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # False Solomon's Seal
+![False Solomon's Seal](../images/false-solomons-seal.jpg)
+*Photo: [Robert Flogaus-Faust](https://commons.wikimedia.org/wiki/File:Maianthemum_racemosum_RF.jpg) | CC BY 4.0*
+
 
 ## Basic information
 - **Scientific name:** Maianthemum racemosum (syn. Smilacina racemosa)

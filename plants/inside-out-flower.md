@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Inside-out Flower
+![Inside-out Flower](../images/inside-out-flower.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Vancouveria_hexandra_6356.JPG) | CC BY-SA 3.0*
+
 
 ## Basic information
 - **Scientific name:** Vancouveria hexandra

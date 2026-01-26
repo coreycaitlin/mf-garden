@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Big Leaf Lupine
+![Big Leaf Lupine](../images/big-leaf-lupine.jpg)
+*Photo: [George Chernilevsky](https://commons.wikimedia.org/wiki/File:Lupinus_polyphyllus_UA_2015_G5.jpg) | Public domain*
+
 
 ## Basic information
 - **Scientific name:** Lupinus polyphyllus

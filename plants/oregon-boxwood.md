@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Oregon Boxwood
+![Oregon Boxwood](../images/oregon-boxwood.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Paxistima_myrsinites_38584.JPG) | CC BY 2.5*
+
 
 ## Basic information
 - **Scientific name:** Paxistima myrsinites (syn. Pachistima myrsinites)

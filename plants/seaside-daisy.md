@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Seaside Daisy
+![Seaside Daisy](../images/seaside-daisy.jpg)
+*Photo: [Ввласенко](https://commons.wikimedia.org/wiki/File:Erigeron_glaucus.jpg) | CC BY 4.0*
+
 
 ## Basic information
 - **Scientific name:** Erigeron glaucus

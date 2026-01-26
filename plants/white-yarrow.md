@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # White Yarrow
+![White Yarrow](../images/white-yarrow.jpg)
+*Photo: [Rhododendrites](https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(52354).jpg) | CC BY-SA 4.0*
+
 
 ## Basic information
 - **Scientific name:** Achillea millefolium

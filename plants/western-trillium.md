@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Western Trillium
+![Western Trillium](../images/western-trillium.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Trillium_ovatum_1290.JPG) | CC BY-SA 3.0*
+
 
 ## Basic information
 - **Scientific name:** Trillium ovatum

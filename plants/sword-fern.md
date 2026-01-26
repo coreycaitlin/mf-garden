@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Sword Fern
+![Sword Fern](../images/sword-fern.jpg)
+*Photo: [Jami Dwyer](https://commons.wikimedia.org/wiki/File:Polystichum_munitum_(Jami_Dwyer)_001.jpg) | CC BY-SA 2.0*
+
 
 ## Basic information
 - **Scientific name:** Polystichum munitum

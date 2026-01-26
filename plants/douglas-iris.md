@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Douglas Iris
+![Douglas Iris](../images/douglas-iris.jpg)
+*Photo: [Eric Hunt](https://commons.wikimedia.org/wiki/File:Iris_douglasiana_Salt_Point.jpg) | CC BY-SA 4.0*
+
 
 ## Basic information
 - **Scientific name:** Iris douglasiana

@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Pacific Wax Myrtle
+![Pacific Wax Myrtle](../images/pacific-wax-myrtle.jpg)
+*Photo: [Ben Cody](https://commons.wikimedia.org/wiki/File:Myrica_californica.jpg) | Public domain*
+
 
 ## Basic information
 - **Scientific name:** Myrica californica

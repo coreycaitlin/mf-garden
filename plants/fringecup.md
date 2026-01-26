@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Fringecup
+![Fringecup](../images/fringecup.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Tellima_grandiflora_11202.JPG) | CC BY 2.5*
+
 
 ## Basic information
 - **Scientific name:** Tellima grandiflora

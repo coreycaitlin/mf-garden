@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Dwarf Snowberry
+![Dwarf Snowberry](../images/dwarf-snowberry.jpg)
+*Photo: [Krzysztof Ziarnek, Kenraiz](https://commons.wikimedia.org/wiki/File:Symphoricarpos_mollis_kz04.jpg) | CC BY-SA 4.0*
+
 
 ## Basic information
 - **Scientific name:** Symphoricarpos mollis (syn. S. albus var. mollis)

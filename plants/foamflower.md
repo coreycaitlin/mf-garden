@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Foamflower
+![Foamflower](../images/foamflower.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Tiarella_trifoliata_10954.JPG) | CC BY 2.5*
+
 
 ## Basic information
 - **Scientific name:** Tiarella trifoliata

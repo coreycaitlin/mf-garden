@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Heath Aster
+![Heath Aster](../images/heath-aster.jpg)
+*Photo: [Krzysztof Ziarnek, Kenraiz](https://commons.wikimedia.org/wiki/File:Symphyotrichum_ericoides_kz01.jpg) | CC BY-SA 4.0*
+
 
 ## Basic information
 - **Scientific name:** Symphyotrichum ericoides (syn. Aster ericoides)

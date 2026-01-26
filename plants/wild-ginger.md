@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Wild Ginger
+![Wild Ginger](../images/wild-ginger.jpg)
+*Photo: [Robert Flogaus-Faust](https://commons.wikimedia.org/wiki/File:Asarum_caudatum_RF.jpg) | CC BY 4.0*
+
 
 ## Basic information
 - **Scientific name:** Asarum caudatum

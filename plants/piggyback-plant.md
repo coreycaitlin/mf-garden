@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Piggyback Plant
+![Piggyback Plant](../images/piggyback-plant.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Tolmiea_menziesii_6537.JPG) | CC BY-SA 3.0*
+
 
 ## Basic information
 - **Scientific name:** Tolmiea menziesii

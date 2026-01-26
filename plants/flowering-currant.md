@@ -6,6 +6,9 @@ status: "none"
 ---
 
 # Flowering Currant
+![Flowering Currant](../images/flowering-currant.jpg)
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Ribes_sanguineum_5409.JPG) | CC BY-SA 3.0*
+
 
 ## Basic information
 - **Scientific name:** Ribes sanguineum
