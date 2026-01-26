@@ -3,6 +3,7 @@ common_name: "Inside-out Flower"
 scientific_name: "Vancouveria hexandra"
 plant_type: "Perennial"
 status: "none"
+garden_area: ""
 ---
 
 # Inside-out Flower

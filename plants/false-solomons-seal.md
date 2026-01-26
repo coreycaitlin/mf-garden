@@ -3,6 +3,7 @@ common_name: "False Solomon's Seal"
 scientific_name: "Maianthemum racemosum"
 plant_type: "Perennial"
 status: "none"
+garden_area: ""
 ---
 
 # False Solomon's Seal

@@ -3,6 +3,7 @@ common_name: "Flowering Currant"
 scientific_name: "Ribes sanguineum"
 plant_type: "Shrub"
 status: "none"
+garden_area: ""
 ---
 
 # Flowering Currant

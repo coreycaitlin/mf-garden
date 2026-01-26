@@ -3,6 +3,7 @@ common_name: "Seaside Daisy"
 scientific_name: "Erigeron glaucus"
 plant_type: "Perennial"
 status: "none"
+garden_area: ""
 ---
 
 # Seaside Daisy

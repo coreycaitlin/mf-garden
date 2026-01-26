@@ -3,6 +3,7 @@ common_name: "Pacific Wax Myrtle"
 scientific_name: "Myrica californica"
 plant_type: "Shrub"
 status: "none"
+garden_area: ""
 ---
 
 # Pacific Wax Myrtle

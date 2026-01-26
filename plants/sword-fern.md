@@ -3,6 +3,7 @@ common_name: "Sword Fern"
 scientific_name: "Polystichum munitum"
 plant_type: "Fern"
 status: "none"
+garden_area: ""
 ---
 
 # Sword Fern

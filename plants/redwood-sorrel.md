@@ -3,6 +3,7 @@ common_name: "Redwood Sorrel"
 scientific_name: "Oxalis oregana"
 plant_type: "Perennial"
 status: "none"
+garden_area: ""
 ---
 
 # Redwood Sorrel

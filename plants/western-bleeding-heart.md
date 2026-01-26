@@ -3,6 +3,7 @@ common_name: "Western Bleeding Heart"
 scientific_name: "Dicentra formosa"
 plant_type: "Perennial"
 status: "none"
+garden_area: ""
 ---
 
 # Western Bleeding Heart

@@ -3,6 +3,7 @@ common_name: "Piggyback Plant"
 scientific_name: "Tolmiea menziesii"
 plant_type: "Perennial"
 status: "none"
+garden_area: ""
 ---
 
 # Piggyback Plant

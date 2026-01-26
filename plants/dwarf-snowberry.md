@@ -3,6 +3,7 @@ common_name: "Dwarf Snowberry"
 scientific_name: "Symphoricarpos mollis"
 plant_type: "Shrub"
 status: "none"
+garden_area: ""
 ---
 
 # Dwarf Snowberry
