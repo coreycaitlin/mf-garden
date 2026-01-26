@@ -17,6 +17,7 @@ Native plant garden in PNW
 | [Heath Aster](plants/heath-aster.md) | *Symphyotrichum ericoides* | Perennial |
 | [Inside-out Flower](plants/inside-out-flower.md) | *Vancouveria hexandra* | Perennial |
 | [Manzanita](plants/manzanita.md) | *Arctostaphylos columbiana* | Shrub |
+| [Ocean Spray](plants/ocean-spray.md) | *Holodiscus discolor* | Shrub |
 | [Oregon Boxwood](plants/oregon-boxwood.md) | *Paxistima myrsinites* | Shrub |
 | [Pacific Wax Myrtle](plants/pacific-wax-myrtle.md) | *Myrica californica* | Shrub |
 | [Piggyback Plant](plants/piggyback-plant.md) | *Tolmiea menziesii* | Perennial |
