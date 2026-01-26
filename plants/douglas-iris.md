@@ -3,7 +3,7 @@ common_name: "Douglas Iris"
 scientific_name: "Iris douglasiana"
 plant_type: "Perennial"
 status: "none"
-garden_area: ""
+garden_area: "front"
 ---
 
 # Douglas Iris

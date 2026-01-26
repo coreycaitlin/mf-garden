@@ -3,9 +3,12 @@ common_name: ""
 scientific_name: ""
 plant_type: ""
 status: "planned" # planned, purchased, planted, established
+garden_area: ""
 ---
 
 # [Common name]
+![Common name](../images/plant-slug.jpg)
+*Photo: [Author Name](wikimedia-source-url) | License*
 
 ## Basic information
 - **Scientific name:** 

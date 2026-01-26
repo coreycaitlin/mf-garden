@@ -3,7 +3,7 @@ common_name: "Oregon Boxwood"
 scientific_name: "Paxistima myrsinites"
 plant_type: "Shrub"
 status: "none"
-garden_area: ""
+garden_area: "front"
 ---
 
 # Oregon Boxwood
