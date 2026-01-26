@@ -1,0 +1,83 @@
+name: Update Plant Index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'plants/**'
+  workflow_dispatch:
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate plant index
+        run: |
+          # Create temporary file for the new index
+          INDEX_FILE=$(mktemp)
+
+          echo "| Common Name | Scientific Name | Type |" > "$INDEX_FILE"
+          echo "|-------------|-----------------|------|" >> "$INDEX_FILE"
+
+          # Process each plant file
+          for file in plants/*.md; do
+            if [ -f "$file" ]; then
+              # Extract frontmatter values
+              common_name=$(grep -m1 '^common_name:' "$file" | sed 's/common_name: *"//' | sed 's/"$//')
+              scientific_name=$(grep -m1 '^scientific_name:' "$file" | sed 's/scientific_name: *"//' | sed 's/"$//')
+              plant_type=$(grep -m1 '^plant_type:' "$file" | sed 's/plant_type: *"//' | sed 's/"$//')
+
+              # Get filename for link
+              filename=$(basename "$file")
+
+              # Add row to index
+              echo "| [$common_name](plants/$filename) | *$scientific_name* | $plant_type |" >> "$INDEX_FILE"
+            fi
+          done
+
+          # Sort the index by common name (skip header rows)
+          {
+            head -2 "$INDEX_FILE"
+            tail -n +3 "$INDEX_FILE" | sort -t'|' -k2
+          } > "${INDEX_FILE}.sorted"
+          mv "${INDEX_FILE}.sorted" "$INDEX_FILE"
+
+          # Update README between markers
+          if grep -q "<!-- PLANT_INDEX_START -->" README.md; then
+            # Use awk to replace content between markers
+            awk '
+              /<!-- PLANT_INDEX_START -->/ { print; system("cat '"$INDEX_FILE"'"); skip=1; next }
+              /<!-- PLANT_INDEX_END -->/ { skip=0 }
+              !skip { print }
+            ' README.md > README.md.new
+            mv README.md.new README.md
+          else
+            echo "Error: Plant index markers not found in README.md"
+            exit 1
+          fi
+
+          rm "$INDEX_FILE"
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "docs: update plant index"
+          git push
