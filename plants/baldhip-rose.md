@@ -2,7 +2,7 @@
 common_name: "Baldhip Rose"
 scientific_name: "Rosa gymnocarpa"
 plant_type: "Shrub"
-status: "none"
+status: "planned"
 garden_area: "front"
 ---
 

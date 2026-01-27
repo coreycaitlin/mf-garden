@@ -2,8 +2,8 @@
 common_name: "Fringecup"
 scientific_name: "Tellima grandiflora"
 plant_type: "Perennial"
-status: "none"
-garden_area: ""
+status: "planned"
+garden_area: "front"
 ---
 
 # Fringecup
