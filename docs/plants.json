@@ -1,0 +1,290 @@
+[
+  {
+    "common_name": "Baldhip Rose",
+    "scientific_name": "Rosa gymnocarpa",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/baldhip-rose.jpg",
+    "slug": "baldhip-rose"
+  },
+  {
+    "common_name": "Big Leaf Lupine",
+    "scientific_name": "Lupinus polyphyllus",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/big-leaf-lupine.jpg",
+    "slug": "big-leaf-lupine"
+  },
+  {
+    "common_name": "Cascade Penstemon",
+    "scientific_name": "Penstemon serrulatus",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/cascade-penstemon.jpg",
+    "slug": "cascade-penstemon"
+  },
+  {
+    "common_name": "Douglas Iris",
+    "scientific_name": "Iris douglasiana",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/douglas-iris.jpg",
+    "slug": "douglas-iris"
+  },
+  {
+    "common_name": "Dr. Hurd Manzanita",
+    "scientific_name": "Arctostaphylos manzanita 'Dr. Hurd'",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/dr-hurd-manzanita.jpg",
+    "slug": "dr-hurd-manzanita"
+  },
+  {
+    "common_name": "Dwarf Snowberry",
+    "scientific_name": "Symphoricarpos mollis",
+    "plant_type": "Shrub",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/dwarf-snowberry.jpg",
+    "slug": "dwarf-snowberry"
+  },
+  {
+    "common_name": "False Solomon's Seal",
+    "scientific_name": "Maianthemum racemosum",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/false-solomons-seal.jpg",
+    "slug": "false-solomons-seal"
+  },
+  {
+    "common_name": "Flowering Currant",
+    "scientific_name": "Ribes sanguineum",
+    "plant_type": "Shrub",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/flowering-currant.jpg",
+    "slug": "flowering-currant"
+  },
+  {
+    "common_name": "Foamflower",
+    "scientific_name": "Tiarella trifoliata",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/foamflower.jpg",
+    "slug": "foamflower"
+  },
+  {
+    "common_name": "Foothill Sedge",
+    "scientific_name": "Carex tumulicola",
+    "plant_type": "Grass",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/foothill-sedge.jpg",
+    "slug": "foothill-sedge"
+  },
+  {
+    "common_name": "Fringecup",
+    "scientific_name": "Tellima grandiflora",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/fringecup.jpg",
+    "slug": "fringecup"
+  },
+  {
+    "common_name": "Heath Aster",
+    "scientific_name": "Symphyotrichum ericoides",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/heath-aster.jpg",
+    "slug": "heath-aster"
+  },
+  {
+    "common_name": "Idaho Fescue",
+    "scientific_name": "Festuca idahoensis",
+    "plant_type": "Grass",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/idaho-fescue.jpg",
+    "slug": "idaho-fescue"
+  },
+  {
+    "common_name": "Inside-out Flower",
+    "scientific_name": "Vancouveria hexandra",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/inside-out-flower.jpg",
+    "slug": "inside-out-flower"
+  },
+  {
+    "common_name": "Manzanita",
+    "scientific_name": "Arctostaphylos columbiana",
+    "plant_type": "Shrub",
+    "status": "none",
+    "garden_area": "front",
+    "image": "images/manzanita.jpg",
+    "slug": "manzanita"
+  },
+  {
+    "common_name": "Meadow Checkermallow",
+    "scientific_name": "Sidalcea campestris",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/meadow-checkermallow.jpg",
+    "slug": "meadow-checkermallow"
+  },
+  {
+    "common_name": "Oak Fern",
+    "scientific_name": "Gymnocarpium dryopteris",
+    "plant_type": "Fern",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/oak-fern.jpg",
+    "slug": "oak-fern"
+  },
+  {
+    "common_name": "Ocean Spray",
+    "scientific_name": "Holodiscus discolor",
+    "plant_type": "Shrub",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/ocean-spray.jpg",
+    "slug": "ocean-spray"
+  },
+  {
+    "common_name": "Oregon Boxwood",
+    "scientific_name": "Paxistima myrsinites",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/oregon-boxwood.jpg",
+    "slug": "oregon-boxwood"
+  },
+  {
+    "common_name": "Oregon Checkermallow",
+    "scientific_name": "Sidalcea oregana",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/oregon-checkermallow.jpg",
+    "slug": "oregon-checkermallow"
+  },
+  {
+    "common_name": "Pacific Wax Myrtle",
+    "scientific_name": "Myrica californica",
+    "plant_type": "Shrub",
+    "status": "none",
+    "garden_area": "back",
+    "image": "images/pacific-wax-myrtle.jpg",
+    "slug": "pacific-wax-myrtle"
+  },
+  {
+    "common_name": "Piggyback Plant",
+    "scientific_name": "Tolmiea menziesii",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/piggyback-plant.jpg",
+    "slug": "piggyback-plant"
+  },
+  {
+    "common_name": "Redwood Sorrel",
+    "scientific_name": "Oxalis oregana",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/redwood-sorrel.jpg",
+    "slug": "redwood-sorrel"
+  },
+  {
+    "common_name": "Seaside Daisy",
+    "scientific_name": "Erigeron glaucus",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/seaside-daisy.jpg",
+    "slug": "seaside-daisy"
+  },
+  {
+    "common_name": "Common Snowberry",
+    "scientific_name": "Symphoricarpos albus",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/snowberry.jpg",
+    "slug": "snowberry"
+  },
+  {
+    "common_name": "Sword Fern",
+    "scientific_name": "Polystichum munitum",
+    "plant_type": "Fern",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/sword-fern.jpg",
+    "slug": "sword-fern"
+  },
+  {
+    "common_name": "Tufted Hair Grass",
+    "scientific_name": "Deschampsia cespitosa",
+    "plant_type": "Grass",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/tufted-hair-grass.jpg",
+    "slug": "tufted-hair-grass"
+  },
+  {
+    "common_name": "Vine Maple",
+    "scientific_name": "Acer circinatum",
+    "plant_type": "Tree",
+    "status": "none",
+    "garden_area": "back",
+    "image": "images/vine-maple.jpg",
+    "slug": "vine-maple"
+  },
+  {
+    "common_name": "Western Bleeding Heart",
+    "scientific_name": "Dicentra formosa",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/western-bleeding-heart.jpg",
+    "slug": "western-bleeding-heart"
+  },
+  {
+    "common_name": "Western Trillium",
+    "scientific_name": "Trillium ovatum",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "",
+    "image": "images/western-trillium.jpg",
+    "slug": "western-trillium"
+  },
+  {
+    "common_name": "White Yarrow",
+    "scientific_name": "Achillea millefolium",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": "front",
+    "image": "images/white-yarrow.jpg",
+    "slug": "white-yarrow"
+  },
+  {
+    "common_name": "Wild Ginger",
+    "scientific_name": "Asarum caudatum",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": "back",
+    "image": "images/wild-ginger.jpg",
+    "slug": "wild-ginger"
+  }
+]

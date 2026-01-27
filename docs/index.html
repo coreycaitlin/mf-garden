@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MF Garden - Plant Collection</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MF Garden</h1>
+        <p class="subtitle">Pacific Northwest Native Plant Collection</p>
+    </header>
+
+    <main>
+        <section class="filters">
+            <div class="filter-group">
+                <label for="status-filter">Status:</label>
+                <select id="status-filter">
+                    <option value="all">All</option>
+                    <option value="planned">Planned</option>
+                    <option value="purchased">Purchased</option>
+                    <option value="planted">Planted</option>
+                    <option value="established">Established</option>
+                    <option value="none">None</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="area-filter">Garden Area:</label>
+                <select id="area-filter">
+                    <option value="all">All</option>
+                    <option value="front">Front</option>
+                    <option value="back">Back</option>
+                    <option value="unassigned">Unassigned</option>
+                </select>
+            </div>
+            <div class="filter-info">
+                <span id="plant-count">0 plants</span>
+            </div>
+        </section>
+
+        <section id="plant-grid" class="plant-grid">
+            <!-- Plant cards will be rendered here by JavaScript -->
+        </section>
+    </main>
+
+    <footer>
+        <p>A garden planning tool for Pacific Northwest native plants</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
