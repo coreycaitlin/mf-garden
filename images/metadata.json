@@ -136,5 +136,29 @@
     "author": "Walter Siegmund",
     "license": "CC BY-SA 3.0",
     "source_url": "https://commons.wikimedia.org/wiki/File:Holodiscus_discolor_3007.JPG"
+  },
+  "evergreen-huckleberry": {
+    "file": "evergreen-huckleberry.jpg",
+    "author": "Nick",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Vaccinium_ovatum_by_Nick.JPG"
+  },
+  "serviceberry": {
+    "file": "serviceberry.jpg",
+    "author": "Walter Siegmund",
+    "license": "CC BY-SA 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Amelanchier_alnifolia_6441.JPG"
+  },
+  "stinging-nettle": {
+    "file": "stinging-nettle.jpg",
+    "author": "Uwe H. Friese",
+    "license": "CC BY-SA 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Urtica_dioica_001.JPG"
+  },
+  "snowberry": {
+    "file": "snowberry.jpg",
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Symphoricarpos_albus_001.JPG"
   }
 }

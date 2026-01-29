@@ -54,6 +54,18 @@ def extract_field(content: str, field_name: str) -> str:
     return ''
 
 
+def extract_photo_credit(content: str) -> str:
+    """Extract photo credit from markdown like '*Photo: [Author](url) | License*'."""
+    # Match *Photo: [Author](url) | License* pattern
+    # Use .+?\) to handle URLs with parentheses in filenames
+    match = re.search(r'\*Photo:\s*\[([^\]]+)\]\(.+?\)\s*\|\s*([^*]+)\*', content)
+    if match:
+        author = match.group(1).strip()
+        license = match.group(2).strip()
+        return f"Photo: {author} | {license}"
+    return ''
+
+
 def generate_slug(filename: str) -> str:
     """Generate slug from filename (remove .md extension)."""
     return filename.replace('.md', '')
@@ -76,6 +88,7 @@ def process_plant_file(filepath: Path) -> dict | None:
     slug = generate_slug(filepath.name)
     sun_requirements = extract_field(content, 'Sun requirements')
     water_needs = extract_field(content, 'Water needs')
+    photo_credit = extract_photo_credit(content)
 
     return {
         'common_name': frontmatter.get('common_name', ''),
@@ -86,6 +99,7 @@ def process_plant_file(filepath: Path) -> dict | None:
         'sun_requirements': sun_requirements,
         'water_needs': water_needs,
         'image': image,
+        'photo_credit': photo_credit,
         'slug': slug
     }
 

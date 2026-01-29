@@ -8,7 +8,7 @@ garden_area: "front"
 
 # Common Snowberry
 ![Common Snowberry](../images/snowberry.jpg)
-*Photo: [AnRo0002](https://commons.wikimedia.org/wiki/File:20150617Symphoricarpos_albus1.jpg) | CC0*
+*Photo: [H. Zell](https://commons.wikimedia.org/wiki/File:Symphoricarpos_albus_001.JPG) | CC BY-SA 3.0*
 
 ## Basic information
 - **Scientific name:** Symphoricarpos albus

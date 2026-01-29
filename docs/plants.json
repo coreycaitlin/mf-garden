@@ -8,6 +8,7 @@
     "sun_requirements": "Full Sun/Part Shade/Full Shade (tolerates wide range)",
     "water_needs": "Low to High (adapts to dry through wet conditions)",
     "image": "images/baldhip-rose.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "baldhip-rose"
   },
   {
@@ -19,6 +20,7 @@
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Medium",
     "image": "images/big-leaf-lupine.jpg",
+    "photo_credit": "Photo: George Chernilevsky | Public domain",
     "slug": "big-leaf-lupine"
   },
   {
@@ -30,6 +32,7 @@
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Medium (tolerates seasonally wet soils)",
     "image": "images/cascade-penstemon.jpg",
+    "photo_credit": "Photo: Mount Rainier National Park | Public Domain",
     "slug": "cascade-penstemon"
   },
   {
@@ -41,6 +44,7 @@
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/douglas-iris.jpg",
+    "photo_credit": "Photo: Eric Hunt | CC BY-SA 4.0",
     "slug": "douglas-iris"
   },
   {
@@ -52,6 +56,7 @@
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (drought tolerant once established)",
     "image": "images/dr-hurd-manzanita.jpg",
+    "photo_credit": "Photo: Daderot | CC0",
     "slug": "dr-hurd-manzanita"
   },
   {
@@ -63,7 +68,20 @@
     "sun_requirements": "Full Sun/Part Shade/Full Shade (tolerates wide range)",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/dwarf-snowberry.jpg",
+    "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "dwarf-snowberry"
+  },
+  {
+    "common_name": "Evergreen Huckleberry",
+    "scientific_name": "Vaccinium ovatum",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": "back",
+    "sun_requirements": "Part Shade/Full Shade (tolerates full sun near coast)",
+    "water_needs": "Low-Medium (drought tolerant once established)",
+    "image": "images/evergreen-huckleberry.jpg",
+    "photo_credit": "Photo: Nick | CC BY-SA 4.0",
+    "slug": "evergreen-huckleberry"
   },
   {
     "common_name": "False Solomon's Seal",
@@ -74,6 +92,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "image": "images/false-solomons-seal.jpg",
+    "photo_credit": "Photo: Robert Flogaus-Faust | CC BY 4.0",
     "slug": "false-solomons-seal"
   },
   {
@@ -85,6 +104,7 @@
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/flowering-currant.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "flowering-currant"
   },
   {
@@ -96,6 +116,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "image": "images/foamflower.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "foamflower"
   },
   {
@@ -107,6 +128,7 @@
     "sun_requirements": "Part Shade/Part Sun (full sun along coast)",
     "water_needs": "Low-Medium (tolerates drought once established)",
     "image": "images/foothill-sedge.jpg",
+    "photo_credit": "Photo: Daderot | CC0",
     "slug": "foothill-sedge"
   },
   {
@@ -118,6 +140,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium (moist preferred)",
     "image": "images/fringecup.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "fringecup"
   },
   {
@@ -129,6 +152,7 @@
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/heath-aster.jpg",
+    "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "heath-aster"
   },
   {
@@ -140,6 +164,7 @@
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/idaho-fescue.jpg",
+    "photo_credit": "Photo: Matt Lavin | CC BY-SA 2.0",
     "slug": "idaho-fescue"
   },
   {
@@ -151,6 +176,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Low-Medium",
     "image": "images/inside-out-flower.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "inside-out-flower"
   },
   {
@@ -162,6 +188,7 @@
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low (very drought tolerant once established)",
     "image": "images/manzanita.jpg",
+    "photo_credit": "Photo: NoahElhardt | CC BY-SA 2.5",
     "slug": "manzanita"
   },
   {
@@ -173,6 +200,7 @@
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/meadow-checkermallow.jpg",
+    "photo_credit": "Photo: Amy Bartow, NRCS Corvallis PMC | Public Domain",
     "slug": "meadow-checkermallow"
   },
   {
@@ -184,6 +212,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium-High (needs consistent moisture)",
     "image": "images/oak-fern.jpg",
+    "photo_credit": "Photo: jillllybean | CC BY-SA 2.0",
     "slug": "oak-fern"
   },
   {
@@ -195,6 +224,7 @@
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (very drought tolerant once established)",
     "image": "images/ocean-spray.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "ocean-spray"
   },
   {
@@ -206,6 +236,7 @@
     "sun_requirements": "Part Shade/Full Shade (tolerates sun with moisture)",
     "water_needs": "Low-Medium",
     "image": "images/oregon-boxwood.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "oregon-boxwood"
   },
   {
@@ -217,6 +248,7 @@
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Medium-High (not drought tolerant; prefers moist conditions)",
     "image": "images/oregon-checkermallow.jpg",
+    "photo_credit": "Photo: Dcrjsr | CC BY 4.0",
     "slug": "oregon-checkermallow"
   },
   {
@@ -228,6 +260,7 @@
     "sun_requirements": "Full Sun/Part Shade (grows best with some sunlight but tolerates almost full shade)",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/pacific-wax-myrtle.jpg",
+    "photo_credit": "Photo: Ben Cody | Public domain",
     "slug": "pacific-wax-myrtle"
   },
   {
@@ -239,6 +272,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Low-Medium (more drought tolerant than expected)",
     "image": "images/piggyback-plant.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "piggyback-plant"
   },
   {
@@ -250,6 +284,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "image": "images/redwood-sorrel.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "redwood-sorrel"
   },
   {
@@ -261,7 +296,20 @@
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/seaside-daisy.jpg",
+    "photo_credit": "Photo: \u0412\u0432\u043b\u0430\u0441\u0435\u043d\u043a\u043e | CC BY 4.0",
     "slug": "seaside-daisy"
+  },
+  {
+    "common_name": "Western Serviceberry",
+    "scientific_name": "Amelanchier alnifolia",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": "back",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low-Medium (drought tolerant once established)",
+    "image": "images/serviceberry.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
+    "slug": "serviceberry"
   },
   {
     "common_name": "Common Snowberry",
@@ -272,7 +320,20 @@
     "sun_requirements": "Full Sun/Part Shade/Full Shade",
     "water_needs": "Low-Medium (very adaptable)",
     "image": "images/snowberry.jpg",
+    "photo_credit": "Photo: H. Zell | CC BY-SA 3.0",
     "slug": "snowberry"
+  },
+  {
+    "common_name": "Stinging Nettle",
+    "scientific_name": "Urtica dioica",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": "back",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Medium-High (prefers moist conditions)",
+    "image": "images/stinging-nettle.jpg",
+    "photo_credit": "Photo: Uwe H. Friese | CC BY-SA 3.0",
+    "slug": "stinging-nettle"
   },
   {
     "common_name": "Sword Fern",
@@ -283,6 +344,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "image": "images/sword-fern.jpg",
+    "photo_credit": "Photo: Jami Dwyer | CC BY-SA 2.0",
     "slug": "sword-fern"
   },
   {
@@ -294,6 +356,7 @@
     "sun_requirements": "Part Shade/Part Sun (full sun reduces foliage quality)",
     "water_needs": "Medium-High (prefers moist to wet soil)",
     "image": "images/tufted-hair-grass.jpg",
+    "photo_credit": "Photo: Daderot | Public Domain",
     "slug": "tufted-hair-grass"
   },
   {
@@ -305,6 +368,7 @@
     "sun_requirements": "Part Shade/Full Shade (tolerates sun with adequate moisture)",
     "water_needs": "Low-Medium (dry to moist)",
     "image": "images/vine-maple.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "vine-maple"
   },
   {
@@ -316,6 +380,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "image": "images/western-bleeding-heart.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "western-bleeding-heart"
   },
   {
@@ -327,6 +392,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "image": "images/western-trillium.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "western-trillium"
   },
   {
@@ -338,6 +404,7 @@
     "sun_requirements": "Full Sun",
     "water_needs": "Low (very drought tolerant)",
     "image": "images/white-yarrow.jpg",
+    "photo_credit": "Photo: Rhododendrites | CC BY-SA 4.0",
     "slug": "white-yarrow"
   },
   {
@@ -349,6 +416,7 @@
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "image": "images/wild-ginger.jpg",
+    "photo_credit": "Photo: Robert Flogaus-Faust | CC BY 4.0",
     "slug": "wild-ginger"
   }
 ]

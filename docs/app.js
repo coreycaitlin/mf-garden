@@ -198,10 +198,12 @@ function showLightbox(plant) {
     const lightbox = document.getElementById('lightbox');
     const title = document.getElementById('lightbox-title');
     const image = document.getElementById('lightbox-image');
+    const caption = document.getElementById('lightbox-caption');
 
     title.textContent = plant.common_name;
     image.src = plant.image || '';
     image.alt = plant.common_name;
+    caption.textContent = plant.photo_credit || '';
 
     lightbox.classList.add('active');
 }
