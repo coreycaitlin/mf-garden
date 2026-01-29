@@ -45,6 +45,15 @@ def extract_image_path(content: str) -> str | None:
     return None
 
 
+def extract_field(content: str, field_name: str) -> str:
+    """Extract a field value from markdown content like '- **Field:** Value'."""
+    pattern = rf'^\s*-\s*\*\*{re.escape(field_name)}:\*\*\s*(.+)$'
+    match = re.search(pattern, content, re.MULTILINE)
+    if match:
+        return match.group(1).strip()
+    return ''
+
+
 def generate_slug(filename: str) -> str:
     """Generate slug from filename (remove .md extension)."""
     return filename.replace('.md', '')
@@ -65,6 +74,8 @@ def process_plant_file(filepath: Path) -> dict | None:
 
     image = extract_image_path(content)
     slug = generate_slug(filepath.name)
+    sun_requirements = extract_field(content, 'Sun requirements')
+    water_needs = extract_field(content, 'Water needs')
 
     return {
         'common_name': frontmatter.get('common_name', ''),
@@ -72,6 +83,8 @@ def process_plant_file(filepath: Path) -> dict | None:
         'plant_type': frontmatter.get('plant_type', ''),
         'status': frontmatter.get('status', ''),
         'garden_area': frontmatter.get('garden_area', ''),
+        'sun_requirements': sun_requirements,
+        'water_needs': water_needs,
         'image': image,
         'slug': slug
     }

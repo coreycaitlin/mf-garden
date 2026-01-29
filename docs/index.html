@@ -39,14 +39,34 @@
             </div>
         </section>
 
-        <section id="plant-grid" class="plant-grid">
-            <!-- Plant cards will be rendered here by JavaScript -->
+        <section class="table-container">
+            <table id="plant-table">
+                <thead>
+                    <tr>
+                        <th data-sort="common_name">Common Name <span class="sort-icon"></span></th>
+                        <th data-sort="scientific_name">Scientific Name <span class="sort-icon"></span></th>
+                        <th data-sort="plant_type">Type <span class="sort-icon"></span></th>
+                        <th data-sort="sun_requirements">Sun <span class="sort-icon"></span></th>
+                        <th data-sort="water_needs">Water <span class="sort-icon"></span></th>
+                    </tr>
+                </thead>
+                <tbody id="plant-tbody">
+                </tbody>
+            </table>
         </section>
     </main>
 
     <footer>
         <p>A garden planning tool for Pacific Northwest native plants</p>
     </footer>
+
+    <div id="lightbox" class="lightbox">
+        <div class="lightbox-content">
+            <span class="lightbox-close">[close]</span>
+            <h2 id="lightbox-title"></h2>
+            <img id="lightbox-image" src="" alt="">
+        </div>
+    </div>
 
     <script src="app.js"></script>
 </body>

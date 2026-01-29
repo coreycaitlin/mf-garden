@@ -5,6 +5,8 @@
     "plant_type": "Shrub",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Full Sun/Part Shade/Full Shade (tolerates wide range)",
+    "water_needs": "Low to High (adapts to dry through wet conditions)",
     "image": "images/baldhip-rose.jpg",
     "slug": "baldhip-rose"
   },
@@ -14,6 +16,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Full Sun/Part Sun",
+    "water_needs": "Medium",
     "image": "images/big-leaf-lupine.jpg",
     "slug": "big-leaf-lupine"
   },
@@ -23,6 +27,8 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Medium (tolerates seasonally wet soils)",
     "image": "images/cascade-penstemon.jpg",
     "slug": "cascade-penstemon"
   },
@@ -32,6 +38,8 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/douglas-iris.jpg",
     "slug": "douglas-iris"
   },
@@ -41,6 +49,8 @@
     "plant_type": "Shrub",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low (drought tolerant once established)",
     "image": "images/dr-hurd-manzanita.jpg",
     "slug": "dr-hurd-manzanita"
   },
@@ -50,6 +60,8 @@
     "plant_type": "Shrub",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Full Sun/Part Shade/Full Shade (tolerates wide range)",
+    "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/dwarf-snowberry.jpg",
     "slug": "dwarf-snowberry"
   },
@@ -59,6 +71,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium",
     "image": "images/false-solomons-seal.jpg",
     "slug": "false-solomons-seal"
   },
@@ -68,6 +82,8 @@
     "plant_type": "Shrub",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/flowering-currant.jpg",
     "slug": "flowering-currant"
   },
@@ -77,6 +93,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium",
     "image": "images/foamflower.jpg",
     "slug": "foamflower"
   },
@@ -86,6 +104,8 @@
     "plant_type": "Grass",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Part Shade/Part Sun (full sun along coast)",
+    "water_needs": "Low-Medium (tolerates drought once established)",
     "image": "images/foothill-sedge.jpg",
     "slug": "foothill-sedge"
   },
@@ -95,6 +115,8 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium (moist preferred)",
     "image": "images/fringecup.jpg",
     "slug": "fringecup"
   },
@@ -104,6 +126,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Full Sun/Part Sun",
+    "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/heath-aster.jpg",
     "slug": "heath-aster"
   },
@@ -113,6 +137,8 @@
     "plant_type": "Grass",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/idaho-fescue.jpg",
     "slug": "idaho-fescue"
   },
@@ -122,6 +148,8 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Low-Medium",
     "image": "images/inside-out-flower.jpg",
     "slug": "inside-out-flower"
   },
@@ -131,6 +159,8 @@
     "plant_type": "Shrub",
     "status": "none",
     "garden_area": "front",
+    "sun_requirements": "Full Sun/Part Sun",
+    "water_needs": "Low (very drought tolerant once established)",
     "image": "images/manzanita.jpg",
     "slug": "manzanita"
   },
@@ -140,6 +170,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/meadow-checkermallow.jpg",
     "slug": "meadow-checkermallow"
   },
@@ -149,6 +181,8 @@
     "plant_type": "Fern",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium-High (needs consistent moisture)",
     "image": "images/oak-fern.jpg",
     "slug": "oak-fern"
   },
@@ -158,6 +192,8 @@
     "plant_type": "Shrub",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low (very drought tolerant once established)",
     "image": "images/ocean-spray.jpg",
     "slug": "ocean-spray"
   },
@@ -167,6 +203,8 @@
     "plant_type": "Shrub",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Part Shade/Full Shade (tolerates sun with moisture)",
+    "water_needs": "Low-Medium",
     "image": "images/oregon-boxwood.jpg",
     "slug": "oregon-boxwood"
   },
@@ -176,6 +214,8 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Medium-High (not drought tolerant; prefers moist conditions)",
     "image": "images/oregon-checkermallow.jpg",
     "slug": "oregon-checkermallow"
   },
@@ -185,6 +225,8 @@
     "plant_type": "Shrub",
     "status": "none",
     "garden_area": "back",
+    "sun_requirements": "Full Sun/Part Shade (grows best with some sunlight but tolerates almost full shade)",
+    "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/pacific-wax-myrtle.jpg",
     "slug": "pacific-wax-myrtle"
   },
@@ -194,6 +236,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Low-Medium (more drought tolerant than expected)",
     "image": "images/piggyback-plant.jpg",
     "slug": "piggyback-plant"
   },
@@ -203,6 +247,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium",
     "image": "images/redwood-sorrel.jpg",
     "slug": "redwood-sorrel"
   },
@@ -212,6 +258,8 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Full Sun/Part Sun",
+    "water_needs": "Low-Medium (drought tolerant once established)",
     "image": "images/seaside-daisy.jpg",
     "slug": "seaside-daisy"
   },
@@ -221,6 +269,8 @@
     "plant_type": "Shrub",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Full Sun/Part Shade/Full Shade",
+    "water_needs": "Low-Medium (very adaptable)",
     "image": "images/snowberry.jpg",
     "slug": "snowberry"
   },
@@ -230,6 +280,8 @@
     "plant_type": "Fern",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium",
     "image": "images/sword-fern.jpg",
     "slug": "sword-fern"
   },
@@ -239,6 +291,8 @@
     "plant_type": "Grass",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Part Shade/Part Sun (full sun reduces foliage quality)",
+    "water_needs": "Medium-High (prefers moist to wet soil)",
     "image": "images/tufted-hair-grass.jpg",
     "slug": "tufted-hair-grass"
   },
@@ -248,6 +302,8 @@
     "plant_type": "Tree",
     "status": "none",
     "garden_area": "back",
+    "sun_requirements": "Part Shade/Full Shade (tolerates sun with adequate moisture)",
+    "water_needs": "Low-Medium (dry to moist)",
     "image": "images/vine-maple.jpg",
     "slug": "vine-maple"
   },
@@ -257,6 +313,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium",
     "image": "images/western-bleeding-heart.jpg",
     "slug": "western-bleeding-heart"
   },
@@ -266,6 +324,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium",
     "image": "images/western-trillium.jpg",
     "slug": "western-trillium"
   },
@@ -275,6 +335,8 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": "front",
+    "sun_requirements": "Full Sun",
+    "water_needs": "Low (very drought tolerant)",
     "image": "images/white-yarrow.jpg",
     "slug": "white-yarrow"
   },
@@ -284,6 +346,8 @@
     "plant_type": "Perennial",
     "status": "none",
     "garden_area": "back",
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium",
     "image": "images/wild-ginger.jpg",
     "slug": "wild-ginger"
   }

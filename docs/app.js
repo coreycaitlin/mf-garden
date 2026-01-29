@@ -1,17 +1,20 @@
 /**
  * MF Garden - Plant Collection Webapp
- * Displays plant data in filterable cards
+ * Displays plant data in a filterable, sortable table
  */
 
 // State
 let plants = [];
 let filteredPlants = [];
+let sortColumn = 'common_name';
+let sortDirection = 'asc';
 
 // DOM Elements
-const plantGrid = document.getElementById('plant-grid');
+const plantTbody = document.getElementById('plant-tbody');
 const statusFilter = document.getElementById('status-filter');
 const areaFilter = document.getElementById('area-filter');
 const plantCount = document.getElementById('plant-count');
+const tableHeaders = document.querySelectorAll('#plant-table th[data-sort]');
 
 /**
  * Fetch plant data from JSON file
@@ -24,67 +27,120 @@ async function fetchPlants() {
         }
         plants = await response.json();
         filteredPlants = [...plants];
-        renderPlants();
+        sortAndRender();
     } catch (error) {
         console.error('Error fetching plants:', error);
-        plantGrid.innerHTML = `
-            <div class="no-results">
-                <p>Error loading plant data.</p>
-                <p>Make sure to run the generate script first.</p>
-            </div>
+        plantTbody.innerHTML = `
+            <tr>
+                <td colspan="5" class="no-results">
+                    Error loading plant data. Make sure to run the generate script first.
+                </td>
+            </tr>
         `;
     }
 }
 
 /**
- * Create HTML for a single plant card
+ * Create HTML for a single table row
  */
-function createPlantCard(plant) {
-    const card = document.createElement('article');
-    card.className = 'plant-card';
-
-    // Build image path - images are in parent directory from webapp
-    const imagePath = plant.image ? `../${plant.image}` : '';
-
-    // Determine badge classes
-    const statusClass = plant.status ? plant.status.toLowerCase() : '';
-    const areaClass = plant.garden_area ? plant.garden_area.toLowerCase() : '';
-
-    card.innerHTML = `
-        ${imagePath ? `<img src="${imagePath}" alt="${plant.common_name}" class="plant-card-image" loading="lazy">` : '<div class="plant-card-image"></div>'}
-        <div class="plant-card-content">
-            <h2 class="plant-card-name">${plant.common_name}</h2>
-            <p class="plant-card-scientific">${plant.scientific_name}</p>
-            <div class="plant-card-badges">
-                ${plant.plant_type ? `<span class="badge badge-type">${plant.plant_type}</span>` : ''}
-                ${plant.status ? `<span class="badge badge-status ${statusClass}">${plant.status}</span>` : ''}
-                ${plant.garden_area ? `<span class="badge badge-area ${areaClass}">${plant.garden_area}</span>` : ''}
-            </div>
-        </div>
+function createPlantRow(plant) {
+    return `
+        <tr data-slug="${plant.slug}">
+            <td>${plant.common_name}</td>
+            <td>${plant.scientific_name}</td>
+            <td>${plant.plant_type || ''}</td>
+            <td>${plant.sun_requirements || ''}</td>
+            <td>${plant.water_needs || ''}</td>
+        </tr>
     `;
-
-    return card;
 }
 
 /**
- * Render plant cards to the grid
+ * Get plant by slug
+ */
+function getPlantBySlug(slug) {
+    return plants.find(p => p.slug === slug);
+}
+
+/**
+ * Render plant rows to the table
  */
 function renderPlants() {
-    plantGrid.innerHTML = '';
-
     if (filteredPlants.length === 0) {
-        plantGrid.innerHTML = '<div class="no-results">No plants match the selected filters.</div>';
+        plantTbody.innerHTML = `
+            <tr>
+                <td colspan="5" class="no-results">No plants match the selected filters.</td>
+            </tr>
+        `;
         plantCount.textContent = '0 plants';
         return;
     }
 
-    filteredPlants.forEach(plant => {
-        plantGrid.appendChild(createPlantCard(plant));
+    plantTbody.innerHTML = filteredPlants.map(createPlantRow).join('');
+
+    // Add click handlers to rows
+    plantTbody.querySelectorAll('tr[data-slug]').forEach(row => {
+        row.addEventListener('click', () => {
+            const plant = getPlantBySlug(row.dataset.slug);
+            if (plant) {
+                showLightbox(plant);
+            }
+        });
     });
 
-    // Update count
     const count = filteredPlants.length;
     plantCount.textContent = `${count} plant${count !== 1 ? 's' : ''}`;
+}
+
+/**
+ * Sort plants by the current sort column and direction
+ */
+function sortPlants() {
+    filteredPlants.sort((a, b) => {
+        let valA = (a[sortColumn] || '').toLowerCase();
+        let valB = (b[sortColumn] || '').toLowerCase();
+
+        if (valA < valB) return sortDirection === 'asc' ? -1 : 1;
+        if (valA > valB) return sortDirection === 'asc' ? 1 : -1;
+        return 0;
+    });
+}
+
+/**
+ * Update sort header visual indicators
+ */
+function updateSortHeaders() {
+    tableHeaders.forEach(th => {
+        th.classList.remove('sorted-asc', 'sorted-desc');
+        if (th.dataset.sort === sortColumn) {
+            th.classList.add(sortDirection === 'asc' ? 'sorted-asc' : 'sorted-desc');
+        }
+    });
+}
+
+/**
+ * Sort and render plants
+ */
+function sortAndRender() {
+    sortPlants();
+    updateSortHeaders();
+    renderPlants();
+}
+
+/**
+ * Handle sort header click
+ */
+function handleSort(e) {
+    const column = e.currentTarget.dataset.sort;
+
+    if (column === sortColumn) {
+        sortDirection = sortDirection === 'asc' ? 'desc' : 'asc';
+    } else {
+        sortColumn = column;
+        sortDirection = 'asc';
+    }
+
+    sortAndRender();
 }
 
 /**
@@ -95,10 +151,8 @@ function applyFilters() {
     const areaValue = areaFilter.value;
 
     filteredPlants = plants.filter(plant => {
-        // Status filter
         if (statusValue !== 'all') {
             if (statusValue === 'none') {
-                // Show plants with no status or empty status
                 if (plant.status && plant.status !== 'none') {
                     return false;
                 }
@@ -107,10 +161,8 @@ function applyFilters() {
             }
         }
 
-        // Area filter
         if (areaValue !== 'all') {
             if (areaValue === 'unassigned') {
-                // Show plants with no garden_area
                 if (plant.garden_area && plant.garden_area !== '') {
                     return false;
                 }
@@ -122,20 +174,66 @@ function applyFilters() {
         return true;
     });
 
-    renderPlants();
+    sortAndRender();
 }
 
 /**
  * Initialize the app
  */
 function init() {
-    // Set up event listeners
     statusFilter.addEventListener('change', applyFilters);
     areaFilter.addEventListener('change', applyFilters);
 
-    // Fetch and display plants
+    tableHeaders.forEach(th => {
+        th.addEventListener('click', handleSort);
+    });
+
     fetchPlants();
 }
 
-// Start the app when DOM is ready
-document.addEventListener('DOMContentLoaded', init);
+/**
+ * Show plant image in lightbox
+ */
+function showLightbox(plant) {
+    const lightbox = document.getElementById('lightbox');
+    const title = document.getElementById('lightbox-title');
+    const image = document.getElementById('lightbox-image');
+
+    title.textContent = plant.common_name;
+    image.src = plant.image || '';
+    image.alt = plant.common_name;
+
+    lightbox.classList.add('active');
+}
+
+/**
+ * Hide lightbox
+ */
+function hideLightbox() {
+    document.getElementById('lightbox').classList.remove('active');
+}
+
+/**
+ * Set up lightbox event listeners
+ */
+function initLightbox() {
+    const lightbox = document.getElementById('lightbox');
+    const closeBtn = document.querySelector('.lightbox-close');
+
+    closeBtn.addEventListener('click', hideLightbox);
+    lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) {
+            hideLightbox();
+        }
+    });
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            hideLightbox();
+        }
+    });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    init();
+    initLightbox();
+});
