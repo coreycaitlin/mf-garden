@@ -15,6 +15,7 @@ Native plant garden in PNW
 | [Douglas Iris](plants/douglas-iris.md) | *Iris douglasiana* | Perennial |
 | [Dr. Hurd Manzanita](plants/dr-hurd-manzanita.md) | *Arctostaphylos manzanita 'Dr. Hurd'* | Shrub |
 | [Dwarf Snowberry](plants/dwarf-snowberry.md) | *Symphoricarpos mollis* | Shrub |
+| [Evergreen Huckleberry](plants/evergreen-huckleberry.md) | *Vaccinium ovatum* | Shrub |
 | [False Solomon's Seal](plants/false-solomons-seal.md) | *Maianthemum racemosum* | Perennial |
 | [Flowering Currant](plants/flowering-currant.md) | *Ribes sanguineum* | Shrub |
 | [Foamflower](plants/foamflower.md) | *Tiarella trifoliata* | Perennial |
@@ -33,10 +34,12 @@ Native plant garden in PNW
 | [Piggyback Plant](plants/piggyback-plant.md) | *Tolmiea menziesii* | Perennial |
 | [Redwood Sorrel](plants/redwood-sorrel.md) | *Oxalis oregana* | Perennial |
 | [Seaside Daisy](plants/seaside-daisy.md) | *Erigeron glaucus* | Perennial |
+| [Stinging Nettle](plants/stinging-nettle.md) | *Urtica dioica* | Perennial |
 | [Sword Fern](plants/sword-fern.md) | *Polystichum munitum* | Fern |
 | [Tufted Hair Grass](plants/tufted-hair-grass.md) | *Deschampsia cespitosa* | Grass |
 | [Vine Maple](plants/vine-maple.md) | *Acer circinatum* | Tree |
 | [Western Bleeding Heart](plants/western-bleeding-heart.md) | *Dicentra formosa* | Perennial |
+| [Western Serviceberry](plants/serviceberry.md) | *Amelanchier alnifolia* | Shrub |
 | [Western Trillium](plants/western-trillium.md) | *Trillium ovatum* | Perennial |
 | [White Yarrow](plants/white-yarrow.md) | *Achillea millefolium* | Perennial |
 | [Wild Ginger](plants/wild-ginger.md) | *Asarum caudatum* | Perennial |
