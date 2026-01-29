@@ -7,6 +7,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun/Part Shade/Full Shade (tolerates wide range)",
     "water_needs": "Low to High (adapts to dry through wet conditions)",
+    "soil_type": "Well-drained; tolerates poor, rocky soils",
     "image": "images/baldhip-rose.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "baldhip-rose"
@@ -19,6 +20,7 @@
     "garden_area": "",
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Medium",
+    "soil_type": "Moist, well-drained; fixes nitrogen",
     "image": "images/big-leaf-lupine.jpg",
     "photo_credit": "Photo: George Chernilevsky | Public domain",
     "slug": "big-leaf-lupine"
@@ -31,6 +33,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Medium (tolerates seasonally wet soils)",
+    "soil_type": "Moist, well-drained; tolerates various soil types",
     "image": "images/cascade-penstemon.jpg",
     "photo_credit": "Photo: Mount Rainier National Park | Public Domain",
     "slug": "cascade-penstemon"
@@ -43,6 +46,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Well-drained; tolerates clay and poor soils",
     "image": "images/douglas-iris.jpg",
     "photo_credit": "Photo: Eric Hunt | CC BY-SA 4.0",
     "slug": "douglas-iris"
@@ -55,6 +59,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (drought tolerant once established)",
+    "soil_type": "Well-drained; tolerates clay, sandy, rocky, and poor soils",
     "image": "images/dr-hurd-manzanita.jpg",
     "photo_credit": "Photo: Daderot | CC0",
     "slug": "dr-hurd-manzanita"
@@ -67,6 +72,7 @@
     "garden_area": "",
     "sun_requirements": "Full Sun/Part Shade/Full Shade (tolerates wide range)",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; tolerates poor, dry soils",
     "image": "images/dwarf-snowberry.jpg",
     "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "dwarf-snowberry"
@@ -79,6 +85,7 @@
     "garden_area": "back",
     "sun_requirements": "Part Shade/Full Shade (tolerates full sun near coast)",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Acidic, well-drained, humus-rich",
     "image": "images/evergreen-huckleberry.jpg",
     "photo_credit": "Photo: Nick | CC BY-SA 4.0",
     "slug": "evergreen-huckleberry"
@@ -91,6 +98,7 @@
     "garden_area": "",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
+    "soil_type": "Rich, humusy, moist",
     "image": "images/false-solomons-seal.jpg",
     "photo_credit": "Photo: Robert Flogaus-Faust | CC BY 4.0",
     "slug": "false-solomons-seal"
@@ -103,6 +111,7 @@
     "garden_area": "",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Well-drained; tolerates poor soils",
     "image": "images/flowering-currant.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "flowering-currant"
@@ -115,6 +124,7 @@
     "garden_area": "",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
+    "soil_type": "Rich, humusy, moist",
     "image": "images/foamflower.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "foamflower"
@@ -127,6 +137,7 @@
     "garden_area": "front",
     "sun_requirements": "Part Shade/Part Sun (full sun along coast)",
     "water_needs": "Low-Medium (tolerates drought once established)",
+    "soil_type": "Adaptable; tolerates various soils",
     "image": "images/foothill-sedge.jpg",
     "photo_credit": "Photo: Daderot | CC0",
     "slug": "foothill-sedge"
@@ -139,6 +150,7 @@
     "garden_area": "front",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium (moist preferred)",
+    "soil_type": "Adaptable; tolerates clay",
     "image": "images/fringecup.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "fringecup"
@@ -151,6 +163,7 @@
     "garden_area": "",
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; tolerates poor, dry, rocky soils",
     "image": "images/heath-aster.jpg",
     "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "heath-aster"
@@ -163,6 +176,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; tolerates sand, loam, and clay with good drainage",
     "image": "images/idaho-fescue.jpg",
     "photo_credit": "Photo: Matt Lavin | CC BY-SA 2.0",
     "slug": "idaho-fescue"
@@ -175,6 +189,7 @@
     "garden_area": "front",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Low-Medium",
+    "soil_type": "Well-drained, humusy",
     "image": "images/inside-out-flower.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "inside-out-flower"
@@ -187,6 +202,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low (very drought tolerant once established)",
+    "soil_type": "Well-drained, sandy or rocky; intolerant of wet soils",
     "image": "images/manzanita.jpg",
     "photo_credit": "Photo: NoahElhardt | CC BY-SA 2.5",
     "slug": "manzanita"
@@ -199,6 +215,7 @@
     "garden_area": "",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Well-drained; tolerates heavy clay that dries in summer",
     "image": "images/meadow-checkermallow.jpg",
     "photo_credit": "Photo: Amy Bartow, NRCS Corvallis PMC | Public Domain",
     "slug": "meadow-checkermallow"
@@ -211,6 +228,7 @@
     "garden_area": "front",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium-High (needs consistent moisture)",
+    "soil_type": "Humus-rich, moist; tolerates sandy and loamy soils",
     "image": "images/oak-fern.jpg",
     "photo_credit": "Photo: jillllybean | CC BY-SA 2.0",
     "slug": "oak-fern"
@@ -223,6 +241,7 @@
     "garden_area": "",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (very drought tolerant once established)",
+    "soil_type": "Adaptable; tolerates poor, rocky, dry soils",
     "image": "images/ocean-spray.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "ocean-spray"
@@ -235,6 +254,7 @@
     "garden_area": "front",
     "sun_requirements": "Part Shade/Full Shade (tolerates sun with moisture)",
     "water_needs": "Low-Medium",
+    "soil_type": "Well-drained, humusy; tolerates rocky soils",
     "image": "images/oregon-boxwood.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "oregon-boxwood"
@@ -247,6 +267,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Medium-High (not drought tolerant; prefers moist conditions)",
+    "soil_type": "Sandy or loamy; does not grow well in clay",
     "image": "images/oregon-checkermallow.jpg",
     "photo_credit": "Photo: Dcrjsr | CC BY 4.0",
     "slug": "oregon-checkermallow"
@@ -259,6 +280,7 @@
     "garden_area": "back",
     "sun_requirements": "Full Sun/Part Shade (grows best with some sunlight but tolerates almost full shade)",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; tolerates poor, sandy soils",
     "image": "images/pacific-wax-myrtle.jpg",
     "photo_credit": "Photo: Ben Cody | Public domain",
     "slug": "pacific-wax-myrtle"
@@ -271,6 +293,7 @@
     "garden_area": "",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Low-Medium (more drought tolerant than expected)",
+    "soil_type": "Rich, moist, well-drained",
     "image": "images/piggyback-plant.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "piggyback-plant"
@@ -283,6 +306,7 @@
     "garden_area": "",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
+    "soil_type": "Rich, humusy, moist",
     "image": "images/redwood-sorrel.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "redwood-sorrel"
@@ -295,6 +319,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Well-drained, sandy; tolerates poor soils",
     "image": "images/seaside-daisy.jpg",
     "photo_credit": "Photo: \u0412\u0432\u043b\u0430\u0441\u0435\u043d\u043a\u043e | CC BY 4.0",
     "slug": "seaside-daisy"
@@ -307,6 +332,7 @@
     "garden_area": "back",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; prefers well-drained",
     "image": "images/serviceberry.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "serviceberry"
@@ -319,6 +345,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun/Part Shade/Full Shade",
     "water_needs": "Low-Medium (very adaptable)",
+    "soil_type": "Highly adaptable; tolerates poor, wet, dry, and heavy clay soils",
     "image": "images/snowberry.jpg",
     "photo_credit": "Photo: H. Zell | CC BY-SA 3.0",
     "slug": "snowberry"
@@ -331,6 +358,7 @@
     "garden_area": "back",
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Medium-High (prefers moist conditions)",
+    "soil_type": "Rich, moist; tolerates clay",
     "image": "images/stinging-nettle.jpg",
     "photo_credit": "Photo: Uwe H. Friese | CC BY-SA 3.0",
     "slug": "stinging-nettle"
@@ -343,6 +371,7 @@
     "garden_area": "front",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
+    "soil_type": "Rich, humusy, well-drained",
     "image": "images/sword-fern.jpg",
     "photo_credit": "Photo: Jami Dwyer | CC BY-SA 2.0",
     "slug": "sword-fern"
@@ -355,6 +384,7 @@
     "garden_area": "front",
     "sun_requirements": "Part Shade/Part Sun (full sun reduces foliage quality)",
     "water_needs": "Medium-High (prefers moist to wet soil)",
+    "soil_type": "Humus-rich; tolerates heavy soils; adaptable to poor, acidic, or heavy metal soils",
     "image": "images/tufted-hair-grass.jpg",
     "photo_credit": "Photo: Daderot | Public Domain",
     "slug": "tufted-hair-grass"
@@ -367,6 +397,7 @@
     "garden_area": "back",
     "sun_requirements": "Part Shade/Full Shade (tolerates sun with adequate moisture)",
     "water_needs": "Low-Medium (dry to moist)",
+    "soil_type": "Adaptable; prefers rich, well-drained",
     "image": "images/vine-maple.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "vine-maple"
@@ -379,6 +410,7 @@
     "garden_area": "",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
+    "soil_type": "Rich, moist, well-drained",
     "image": "images/western-bleeding-heart.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "western-bleeding-heart"
@@ -391,6 +423,7 @@
     "garden_area": "",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
+    "soil_type": "Rich, humusy, well-drained",
     "image": "images/western-trillium.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "western-trillium"
@@ -403,6 +436,7 @@
     "garden_area": "front",
     "sun_requirements": "Full Sun",
     "water_needs": "Low (very drought tolerant)",
+    "soil_type": "Well-drained; tolerates poor, dry, sandy soils",
     "image": "images/white-yarrow.jpg",
     "photo_credit": "Photo: Rhododendrites | CC BY-SA 4.0",
     "slug": "white-yarrow"
@@ -415,6 +449,7 @@
     "garden_area": "back",
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
+    "soil_type": "Rich, humusy, moist",
     "image": "images/wild-ginger.jpg",
     "photo_credit": "Photo: Robert Flogaus-Faust | CC BY 4.0",
     "slug": "wild-ginger"

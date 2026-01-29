@@ -88,6 +88,7 @@ def process_plant_file(filepath: Path) -> dict | None:
     slug = generate_slug(filepath.name)
     sun_requirements = extract_field(content, 'Sun requirements')
     water_needs = extract_field(content, 'Water needs')
+    soil_type = extract_field(content, 'Soil type')
     photo_credit = extract_photo_credit(content)
 
     return {
@@ -98,6 +99,7 @@ def process_plant_file(filepath: Path) -> dict | None:
         'garden_area': frontmatter.get('garden_area', ''),
         'sun_requirements': sun_requirements,
         'water_needs': water_needs,
+        'soil_type': soil_type,
         'image': image,
         'photo_credit': photo_credit,
         'slug': slug

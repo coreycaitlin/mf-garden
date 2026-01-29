@@ -124,7 +124,9 @@ th.sorted-desc .sort-icon::after {
 #plant-table th:nth-child(4),
 #plant-table td:nth-child(4),
 #plant-table th:nth-child(5),
-#plant-table td:nth-child(5) {
+#plant-table td:nth-child(5),
+#plant-table th:nth-child(6),
+#plant-table td:nth-child(6) {
     min-width: 180px;
 }
 
@@ -188,9 +190,10 @@ a:hover {
     background-color: #ffffff;
     border: 3px outset #cccccc;
     padding: 15px;
-    max-width: 90%;
-    max-height: 90%;
-    overflow: auto;
+    max-width: 90vw;
+    max-height: 90vh;
+    overflow: hidden;
+    box-sizing: border-box;
 }
 
 .lightbox-close {
@@ -212,9 +215,12 @@ a:hover {
 
 #lightbox-image {
     max-width: 100%;
-    max-height: 70vh;
+    max-height: 65vh;
+    width: auto;
+    height: auto;
     display: block;
     border: 1px solid #000000;
+    object-fit: contain;
 }
 
 #lightbox-caption {

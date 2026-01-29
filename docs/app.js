@@ -32,7 +32,7 @@ async function fetchPlants() {
         console.error('Error fetching plants:', error);
         plantTbody.innerHTML = `
             <tr>
-                <td colspan="5" class="no-results">
+                <td colspan="6" class="no-results">
                     Error loading plant data. Make sure to run the generate script first.
                 </td>
             </tr>
@@ -51,6 +51,7 @@ function createPlantRow(plant) {
             <td>${plant.plant_type || ''}</td>
             <td>${plant.sun_requirements || ''}</td>
             <td>${plant.water_needs || ''}</td>
+            <td>${plant.soil_type || ''}</td>
         </tr>
     `;
 }
@@ -69,7 +70,7 @@ function renderPlants() {
     if (filteredPlants.length === 0) {
         plantTbody.innerHTML = `
             <tr>
-                <td colspan="5" class="no-results">No plants match the selected filters.</td>
+                <td colspan="6" class="no-results">No plants match the selected filters.</td>
             </tr>
         `;
         plantCount.textContent = '0 plants';
