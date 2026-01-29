@@ -1,6 +1,8 @@
 # mf-garden
 Native plant garden in PNW
 
+**View the plant collection:** https://coreycaitlin.github.io/mf-garden/
+
 ## Plant Index
 
 <!-- PLANT_INDEX_START -->
