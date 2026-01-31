@@ -22,12 +22,14 @@ garden_area: "front"
 - **Mature spread:** 6-10 feet
 - **Growth rate:** Slow
 - **Lifespan:** Very long-lived (50+ years)
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Sun
 - **Water needs:** Low (very drought tolerant once established)
 - **Soil type:** Well-drained, sandy or rocky; intolerant of wet soils
 - **Soil pH:** 5.0-7.0
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** March-May

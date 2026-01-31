@@ -22,12 +22,14 @@ garden_area: ""
 - **Mature spread:** 12-18 inches
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived perennial
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Full Shade
 - **Water needs:** Medium
 - **Soil type:** Rich, moist, well-drained
 - **Soil pH:** 5.5-7.0
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** March-July (long bloom season)

@@ -22,12 +22,14 @@ garden_area: ""
 - **Mature spread:** 8-12 inches
 - **Growth rate:** Slow
 - **Lifespan:** Very long-lived (can live 25+ years)
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Full Shade
 - **Water needs:** Medium
 - **Soil type:** Rich, humusy, well-drained
 - **Soil pH:** 5.5-6.5
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** March-May

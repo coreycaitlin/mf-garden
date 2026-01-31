@@ -2,7 +2,7 @@
 common_name: "Common Snowberry"
 scientific_name: "Symphoricarpos albus"
 plant_type: "Shrub"
-status: "planned"
+status: "none"
 garden_area: "front"
 ---
 
@@ -21,12 +21,14 @@ garden_area: "front"
 - **Mature spread:** 3-6 feet (spreads by root suckers)
 - **Growth rate:** Medium-Fast
 - **Lifespan:** Long-lived shrub
+- **Roots:** Shallow fibrous roots, spreads via runners
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Shade/Full Shade
 - **Water needs:** Low-Medium (very adaptable)
 - **Soil type:** Highly adaptable; tolerates poor, wet, dry, and heavy clay soils
 - **Soil pH:** 5.5-7.5
+- **Native habitat:** Forest, shrub thicket, open slopes, rocky slopes
 
 ## Seasonal interest
 - **Bloom time:** May-August

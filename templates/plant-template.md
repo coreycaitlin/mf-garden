@@ -20,13 +20,15 @@ garden_area: ""
 - **Mature height:** 
 - **Mature spread:** 
 - **Growth rate:** (Slow/Medium/Fast)
-- **Lifespan:** 
+- **Lifespan:**
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** (Full Sun/Part Sun/Part Shade/Full Shade)
 - **Water needs:** (Low/Low-Medium/Medium/High)
 - **Soil type:** 
-- **Soil pH:** 
+- **Soil pH:**
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** 

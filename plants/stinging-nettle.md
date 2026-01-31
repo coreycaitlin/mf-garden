@@ -22,12 +22,14 @@ garden_area: "back"
 - **Mature spread:** Spreads by rhizomes (colonies)
 - **Growth rate:** Fast
 - **Lifespan:** Long-lived perennial
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Shade
 - **Water needs:** Medium-High (prefers moist conditions)
 - **Soil type:** Rich, moist; tolerates clay
 - **Soil pH:** 5.5-7.5 (adaptable)
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** June-September

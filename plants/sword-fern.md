@@ -22,12 +22,14 @@ garden_area: "front"
 - **Mature spread:** 3-4 feet
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived perennial (decades)
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Full Shade
 - **Water needs:** Medium
 - **Soil type:** Rich, humusy, well-drained
 - **Soil pH:** 5.5-7.0 (slightly acidic to neutral)
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** N/A (fern)

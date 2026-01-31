@@ -21,12 +21,14 @@ garden_area: "front"
 - **Mature spread:** 12-18 inches (spreads slowly by rhizomes)
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived perennial
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Part Sun (full sun along coast)
 - **Water needs:** Low-Medium (tolerates drought once established)
 - **Soil type:** Adaptable; tolerates various soils
 - **Soil pH:** 5.5-7.5
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** April-June

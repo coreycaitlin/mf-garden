@@ -21,12 +21,14 @@ garden_area: "front"
 - **Mature spread:** 12-18 inches
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived perennial
+- **Roots:** Taprooted
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Shade
 - **Water needs:** Medium-High (not drought tolerant; prefers moist conditions)
 - **Soil type:** Sandy or loamy; does not grow well in clay
 - **Soil pH:** 6.0-7.5
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** May-July

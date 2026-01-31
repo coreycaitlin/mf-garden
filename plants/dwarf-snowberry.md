@@ -22,12 +22,14 @@ garden_area: ""
 - **Mature spread:** 3-6 feet (spreads by suckers)
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived shrub
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Shade/Full Shade (tolerates wide range)
 - **Water needs:** Low-Medium (drought tolerant once established)
 - **Soil type:** Adaptable; tolerates poor, dry soils
 - **Soil pH:** 5.5-7.5
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** May-July

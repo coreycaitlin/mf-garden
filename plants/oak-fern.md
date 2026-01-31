@@ -21,12 +21,14 @@ garden_area: "front"
 - **Mature spread:** 12 inches (spreads by rhizomes)
 - **Growth rate:** Slow
 - **Lifespan:** Long-lived perennial
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Full Shade
 - **Water needs:** Medium-High (needs consistent moisture)
 - **Soil type:** Humus-rich, moist; tolerates sandy and loamy soils
 - **Soil pH:** 5.0-7.5 (mildly acid to neutral)
+- **Native habitat:** Moist forests and openings, rocky slopes
 
 ## Seasonal interest
 - **Bloom time:** N/A (fern)

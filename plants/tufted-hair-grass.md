@@ -21,12 +21,14 @@ garden_area: "front"
 - **Mature spread:** 1-2 feet
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived perennial
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Part Sun (full sun reduces foliage quality)
 - **Water needs:** Medium-High (prefers moist to wet soil)
 - **Soil type:** Humus-rich; tolerates heavy soils; adaptable to poor, acidic, or heavy metal soils
 - **Soil pH:** 5.0-7.5
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** June-August

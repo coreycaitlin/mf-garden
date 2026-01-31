@@ -22,12 +22,14 @@ garden_area: "back"
 - **Mature spread:** 4-6 feet
 - **Growth rate:** Slow to medium
 - **Lifespan:** Long-lived (decades)
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Full Shade (tolerates full sun near coast)
 - **Water needs:** Low-Medium (drought tolerant once established)
 - **Soil type:** Acidic, well-drained, humus-rich
 - **Soil pH:** 4.5-5.5 (acidic)
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** March-May

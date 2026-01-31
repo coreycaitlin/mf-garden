@@ -22,12 +22,14 @@ garden_area: "front"
 - **Mature spread:** 1-2 feet (spreads by rhizomes)
 - **Growth rate:** Fast
 - **Lifespan:** Long-lived perennial
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Full Sun
 - **Water needs:** Low (very drought tolerant)
 - **Soil type:** Well-drained; tolerates poor, dry, sandy soils
 - **Soil pH:** 4.0-8.0 (highly adaptable)
+- **Native habitat:** Dry to moist open sites, rocky slopes, clearings
 
 ## Seasonal interest
 - **Bloom time:** June-September

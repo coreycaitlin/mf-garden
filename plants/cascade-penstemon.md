@@ -21,12 +21,14 @@ garden_area: "front"
 - **Mature spread:** 12-18 inches
 - **Growth rate:** Medium
 - **Lifespan:** Short-lived perennial (3-5 years)
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Shade
 - **Water needs:** Medium (tolerates seasonally wet soils)
 - **Soil type:** Moist, well-drained; tolerates various soil types
 - **Soil pH:** 6.0-7.5
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** June-August

@@ -22,12 +22,14 @@ garden_area: ""
 - **Mature spread:** 12-24 inches
 - **Growth rate:** Fast
 - **Lifespan:** Short-lived perennial (3-5 years, but self-seeds)
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Sun
 - **Water needs:** Low-Medium (drought tolerant once established)
 - **Soil type:** Adaptable; tolerates poor, dry, rocky soils
 - **Soil pH:** 5.5-7.5
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** August-October (late season bloomer)

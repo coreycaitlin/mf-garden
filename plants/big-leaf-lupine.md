@@ -22,12 +22,14 @@ garden_area: ""
 - **Mature spread:** 2-3 feet
 - **Growth rate:** Fast
 - **Lifespan:** Short-lived perennial (3-5 years, self-seeds)
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Sun
 - **Water needs:** Medium
 - **Soil type:** Moist, well-drained; fixes nitrogen
 - **Soil pH:** 5.5-7.0 (prefers slightly acidic)
+- **Native habitat:** Open, moist meadows
 
 ## Seasonal interest
 - **Bloom time:** May-July

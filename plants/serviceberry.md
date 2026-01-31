@@ -22,12 +22,14 @@ garden_area: "back"
 - **Mature spread:** 6-12 feet
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived (50+ years)
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Shade
 - **Water needs:** Low-Medium (drought tolerant once established)
 - **Soil type:** Adaptable; prefers well-drained
 - **Soil pH:** 5.5-7.5 (adaptable)
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** April-May

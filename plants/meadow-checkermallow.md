@@ -21,12 +21,14 @@ garden_area: ""
 - **Mature spread:** 8-24 inches
 - **Growth rate:** Fast
 - **Lifespan:** Long-lived perennial
+- **Roots:** Taprooted
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Shade
 - **Water needs:** Low-Medium (drought tolerant once established)
 - **Soil type:** Well-drained; tolerates heavy clay that dries in summer
 - **Soil pH:** 6.0-7.5
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** May-August

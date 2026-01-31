@@ -22,12 +22,14 @@ garden_area: ""
 - **Mature spread:** Spreading indefinitely via rhizomes
 - **Growth rate:** Medium to Fast
 - **Lifespan:** Long-lived perennial
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Full Shade
 - **Water needs:** Medium
 - **Soil type:** Rich, humusy, moist
 - **Soil pH:** 5.0-6.5 (acidic)
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** March-June

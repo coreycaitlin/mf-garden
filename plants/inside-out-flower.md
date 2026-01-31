@@ -22,12 +22,14 @@ garden_area: "front"
 - **Mature spread:** 12-24 inches (spreads by rhizomes)
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived perennial
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Full Shade
 - **Water needs:** Low-Medium
 - **Soil type:** Well-drained, humusy
 - **Soil pH:** 5.5-7.0
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** May-June
@@ -44,7 +46,7 @@ garden_area: "front"
 - **Quantity needed:**
 - **Location/bed:**
 - **Spacing:** 12 inches apart
-- **Companion plants:** Sword fern, wild ginger, trillium, fringecup
+- **Companion plants:** Sword fern, wild ginger, trillium, fringecup, Oregon boxwood
 
 ## Sourcing
 - **Purchase source:**

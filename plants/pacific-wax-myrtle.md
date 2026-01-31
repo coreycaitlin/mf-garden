@@ -22,12 +22,14 @@ garden_area: "back"
 - **Mature spread:** 8-12 feet
 - **Growth rate:** Medium-Fast
 - **Lifespan:** Long-lived shrub
+- **Roots:**
 
 ## Growing conditions
 - **Sun requirements:** Full Sun/Part Shade (grows best with some sunlight but tolerates almost full shade)
 - **Water needs:** Low-Medium (drought tolerant once established)
 - **Soil type:** Adaptable; tolerates poor, sandy soils
 - **Soil pH:** 5.5-7.0
+- **Native habitat:**
 
 ## Seasonal interest
 - **Bloom time:** Spring
