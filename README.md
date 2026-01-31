@@ -10,6 +10,7 @@ Native plant garden in PNW
 |-------------|-----------------|------|
 | [Baldhip Rose](plants/baldhip-rose.md) | *Rosa gymnocarpa* | Shrub |
 | [Big Leaf Lupine](plants/big-leaf-lupine.md) | *Lupinus polyphyllus* | Perennial |
+| [Blue Elderberry](plants/blue-elderberry.md) | *Sambucus cerulea* | Shrub |
 | [Cascade Penstemon](plants/cascade-penstemon.md) | *Penstemon serrulatus* | Perennial |
 | [Common Snowberry](plants/snowberry.md) | *Symphoricarpos albus* | Shrub |
 | [Douglas Iris](plants/douglas-iris.md) | *Iris douglasiana* | Perennial |
@@ -30,13 +31,17 @@ Native plant garden in PNW
 | [Ocean Spray](plants/ocean-spray.md) | *Holodiscus discolor* | Shrub |
 | [Oregon Boxwood](plants/oregon-boxwood.md) | *Paxistima myrsinites* | Shrub |
 | [Oregon Checkermallow](plants/oregon-checkermallow.md) | *Sidalcea oregana* | Perennial |
+| [Oregon Stonecrop](plants/oregon-stonecrop.md) | *Sedum oreganum* | Perennial |
 | [Pacific Wax Myrtle](plants/pacific-wax-myrtle.md) | *Myrica californica* | Shrub |
 | [Piggyback Plant](plants/piggyback-plant.md) | *Tolmiea menziesii* | Perennial |
+| [Red Elderberry](plants/red-elderberry.md) | *Sambucus racemosa* | Shrub |
 | [Redwood Sorrel](plants/redwood-sorrel.md) | *Oxalis oregana* | Perennial |
 | [Seaside Daisy](plants/seaside-daisy.md) | *Erigeron glaucus* | Perennial |
 | [Stinging Nettle](plants/stinging-nettle.md) | *Urtica dioica* | Perennial |
 | [Sword Fern](plants/sword-fern.md) | *Polystichum munitum* | Fern |
+| [Tall Oregon Grape](plants/oregon-grape.md) | *Mahonia aquifolium* | Shrub |
 | [Tufted Hair Grass](plants/tufted-hair-grass.md) | *Deschampsia cespitosa* | Grass |
+| [Vanilla Leaf](plants/vanilla-leaf.md) | *Achlys triphylla* | Perennial |
 | [Vine Maple](plants/vine-maple.md) | *Acer circinatum* | Tree |
 | [Western Bleeding Heart](plants/western-bleeding-heart.md) | *Dicentra formosa* | Perennial |
 | [Western Serviceberry](plants/serviceberry.md) | *Amelanchier alnifolia* | Shrub |
