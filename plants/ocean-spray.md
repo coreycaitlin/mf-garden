@@ -3,7 +3,7 @@ common_name: "Ocean Spray"
 scientific_name: "Holodiscus discolor"
 plant_type: "Shrub"
 status: "none"
-garden_area: ""
+garden_area: []
 ---
 
 # Ocean Spray

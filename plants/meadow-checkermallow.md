@@ -3,7 +3,7 @@ common_name: "Meadow Checkermallow"
 scientific_name: "Sidalcea campestris"
 plant_type: "Perennial"
 status: "none"
-garden_area: ""
+garden_area: []
 ---
 
 # Meadow Checkermallow

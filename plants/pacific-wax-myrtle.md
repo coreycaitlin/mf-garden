@@ -3,7 +3,7 @@ common_name: "Pacific Wax Myrtle"
 scientific_name: "Myrica californica"
 plant_type: "Shrub"
 status: "none"
-garden_area: "back"
+garden_area: ["back"]
 ---
 
 # Pacific Wax Myrtle
@@ -18,8 +18,8 @@ garden_area: "back"
 - **Native region:** Pacific Coast, from Washington to California
 
 ## Growth characteristics
-- **Mature height:** 15 feet
-- **Mature spread:** 8-12 feet
+- **Mature height:** 10-30 ft
+- **Mature spread:** 10-20 ft (can be pruned narrower)
 - **Growth rate:** Medium-Fast
 - **Lifespan:** Long-lived shrub
 - **Roots:**
@@ -70,3 +70,4 @@ garden_area: "back"
 - USDA Plants Database: https://plants.usda.gov/home/plantProfile?symbol=MYCA
 - Lady Bird Johnson Wildflower Center: https://www.wildflower.org/plants/result.php?id_plant=myca
 - Oregon State University Landscape Plants: https://landscapeplants.oregonstate.edu/plants/morella-californica
+- WSU PNW Plants: https://pnwplants.wsu.edu/PlantDisplay.aspx?PlantID=352

@@ -3,7 +3,7 @@ common_name: "Cascade Penstemon"
 scientific_name: "Penstemon serrulatus"
 plant_type: "Perennial"
 status: "planned"
-garden_area: "front"
+garden_area: ["front"]
 ---
 
 # Cascade Penstemon

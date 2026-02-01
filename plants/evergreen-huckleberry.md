@@ -3,7 +3,7 @@ common_name: "Evergreen Huckleberry"
 scientific_name: "Vaccinium ovatum"
 plant_type: "Shrub"
 status: "planned"
-garden_area: "back"
+garden_area: ["back"]
 ---
 
 # Evergreen Huckleberry

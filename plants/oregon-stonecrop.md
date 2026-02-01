@@ -3,7 +3,7 @@ common_name: "Oregon Stonecrop"
 scientific_name: "Sedum oreganum"
 plant_type: "Perennial"
 status: "planned"
-garden_area: ""
+garden_area: []
 ---
 
 # Oregon Stonecrop

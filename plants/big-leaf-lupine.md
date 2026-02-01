@@ -3,7 +3,7 @@ common_name: "Big Leaf Lupine"
 scientific_name: "Lupinus polyphyllus"
 plant_type: "Perennial"
 status: "none"
-garden_area: ""
+garden_area: []
 ---
 
 # Big Leaf Lupine

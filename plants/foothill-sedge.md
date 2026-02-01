@@ -3,7 +3,7 @@ common_name: "Foothill Sedge"
 scientific_name: "Carex tumulicola"
 plant_type: "Grass"
 status: "planned"
-garden_area: "front"
+garden_area: ["front"]
 ---
 
 # Foothill Sedge

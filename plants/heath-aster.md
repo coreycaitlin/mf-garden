@@ -3,7 +3,7 @@ common_name: "Heath Aster"
 scientific_name: "Symphyotrichum ericoides"
 plant_type: "Perennial"
 status: "none"
-garden_area: ""
+garden_area: []
 ---
 
 # Heath Aster

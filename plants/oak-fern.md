@@ -3,7 +3,7 @@ common_name: "Oak Fern"
 scientific_name: "Gymnocarpium dryopteris"
 plant_type: "Fern"
 status: "planned"
-garden_area: "front"
+garden_area: ["front"]
 ---
 
 # Oak Fern

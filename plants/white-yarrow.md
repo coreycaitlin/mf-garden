@@ -3,7 +3,7 @@ common_name: "White Yarrow"
 scientific_name: "Achillea millefolium"
 plant_type: "Perennial"
 status: "planned"
-garden_area: "front"
+garden_area: ["front"]
 ---
 
 # White Yarrow
