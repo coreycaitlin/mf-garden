@@ -13,6 +13,7 @@ Native plant garden in PNW
 | [Blue Elderberry](plants/blue-elderberry.md) | *Sambucus cerulea* | Shrub |
 | [Cascade Penstemon](plants/cascade-penstemon.md) | *Penstemon serrulatus* | Perennial |
 | [Common Snowberry](plants/snowberry.md) | *Symphoricarpos albus* | Shrub |
+| [Deer Fern](plants/deer-fern.md) | *Blechnum spicant* | Fern |
 | [Douglas Iris](plants/douglas-iris.md) | *Iris douglasiana* | Perennial |
 | [Dr. Hurd Manzanita](plants/dr-hurd-manzanita.md) | *Arctostaphylos manzanita 'Dr. Hurd'* | Shrub |
 | [Dwarf Snowberry](plants/dwarf-snowberry.md) | *Symphoricarpos mollis* | Shrub |
@@ -32,10 +33,14 @@ Native plant garden in PNW
 | [Oregon Boxwood](plants/oregon-boxwood.md) | *Paxistima myrsinites* | Shrub |
 | [Oregon Checkermallow](plants/oregon-checkermallow.md) | *Sidalcea oregana* | Perennial |
 | [Oregon Stonecrop](plants/oregon-stonecrop.md) | *Sedum oreganum* | Perennial |
+| [Osoberry](plants/osoberry.md) | *Oemleria cerasiformis* | Shrub |
+| [Pacific Madrone](plants/pacific-madrone.md) | *Arbutus menziesii* | Tree |
 | [Pacific Wax Myrtle](plants/pacific-wax-myrtle.md) | *Myrica californica* | Shrub |
 | [Piggyback Plant](plants/piggyback-plant.md) | *Tolmiea menziesii* | Perennial |
 | [Red Elderberry](plants/red-elderberry.md) | *Sambucus racemosa* | Shrub |
+| [Red Huckleberry](plants/red-huckleberry.md) | *Vaccinium parvifolium* | Shrub |
 | [Redwood Sorrel](plants/redwood-sorrel.md) | *Oxalis oregana* | Perennial |
+| [Salal](plants/salal.md) | *Gaultheria shallon* | Shrub |
 | [Seaside Daisy](plants/seaside-daisy.md) | *Erigeron glaucus* | Perennial |
 | [Stinging Nettle](plants/stinging-nettle.md) | *Urtica dioica* | Perennial |
 | [Sword Fern](plants/sword-fern.md) | *Polystichum munitum* | Fern |
