@@ -3,7 +3,7 @@ common_name: ""
 scientific_name: ""
 plant_type: ""
 status: "planned" # planned, purchased, planted, established
-garden_area: ""
+garden_area: [] # e.g., ["front"] or ["front", "back"]
 ---
 
 # [Common name]

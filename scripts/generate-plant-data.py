@@ -9,6 +9,25 @@ import json
 from pathlib import Path
 
 
+def parse_yaml_array(value: str) -> list:
+    """Parse a simple YAML array like ["a", "b"] or ['a', 'b']."""
+    value = value.strip()
+    if not (value.startswith('[') and value.endswith(']')):
+        return None
+    inner = value[1:-1].strip()
+    if not inner:
+        return []
+    items = []
+    for item in inner.split(','):
+        item = item.strip()
+        if (item.startswith('"') and item.endswith('"')) or \
+           (item.startswith("'") and item.endswith("'")):
+            item = item[1:-1]
+        if item:
+            items.append(item)
+    return items
+
+
 def extract_frontmatter(content: str) -> dict:
     """Extract YAML frontmatter from markdown content (simple parser)."""
     match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
@@ -23,12 +42,17 @@ def extract_frontmatter(content: str) -> dict:
             key, value = line.split(':', 1)
             key = key.strip()
             value = value.strip()
+            # Check for array syntax first
+            array_value = parse_yaml_array(value)
+            if array_value is not None:
+                frontmatter[key] = array_value
             # Remove quotes if present
-            if value.startswith('"') and value.endswith('"'):
-                value = value[1:-1]
+            elif value.startswith('"') and value.endswith('"'):
+                frontmatter[key] = value[1:-1]
             elif value.startswith("'") and value.endswith("'"):
-                value = value[1:-1]
-            frontmatter[key] = value
+                frontmatter[key] = value[1:-1]
+            else:
+                frontmatter[key] = value
     return frontmatter
 
 
@@ -71,6 +95,18 @@ def generate_slug(filename: str) -> str:
     return filename.replace('.md', '')
 
 
+def normalize_garden_area(value) -> list:
+    """Normalize garden_area to always be a list.
+
+    Handles both old format (string) and new format (array).
+    """
+    if isinstance(value, list):
+        return value
+    if isinstance(value, str) and value:
+        return [value]
+    return []
+
+
 def process_plant_file(filepath: Path) -> dict | None:
     """Process a single plant markdown file and return plant data."""
     try:
@@ -96,7 +132,7 @@ def process_plant_file(filepath: Path) -> dict | None:
         'scientific_name': frontmatter.get('scientific_name', ''),
         'plant_type': frontmatter.get('plant_type', ''),
         'status': frontmatter.get('status', ''),
-        'garden_area': frontmatter.get('garden_area', ''),
+        'garden_area': normalize_garden_area(frontmatter.get('garden_area', '')),
         'sun_requirements': sun_requirements,
         'water_needs': water_needs,
         'soil_type': soil_type,

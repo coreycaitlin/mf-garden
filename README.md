@@ -49,3 +49,33 @@ Native plant garden in PNW
 | [White Yarrow](plants/white-yarrow.md) | *Achillea millefolium* | Perennial |
 | [Wild Ginger](plants/wild-ginger.md) | *Asarum caudatum* | Perennial |
 <!-- PLANT_INDEX_END -->
+
+## Adding a New Plant
+
+1. **Create the plant file** using the template:
+   ```bash
+   cp templates/plant-template.md plants/your-plant-name.md
+   ```
+
+2. **Fill in the basics** - at minimum, add the `common_name` and `scientific_name` in the frontmatter, and set the `garden_area` (e.g., `["front"]`, `["back"]`, or `["front", "back"]`).
+
+3. **Fetch a photo** from Wikimedia Commons:
+   ```bash
+   python scripts/fetch-plant-photo.py your-plant-name
+   ```
+   This searches by scientific name, shows available CC-licensed images, and lets you pick one. It downloads the image and updates the photo credit automatically.
+
+4. **Regenerate the plant data** for the webapp:
+   ```bash
+   python scripts/generate-plant-data.py
+   ```
+
+### Other Useful Commands
+
+```bash
+# List plants that are missing photos
+python scripts/fetch-plant-photo.py --missing
+
+# Fetch photos for all plants missing them (interactive)
+python scripts/fetch-plant-photo.py --missing --fetch
+```

@@ -4,7 +4,9 @@
     "scientific_name": "Rosa gymnocarpa",
     "plant_type": "Shrub",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade/Full Shade (tolerates wide range)",
     "water_needs": "Low to High (adapts to dry through wet conditions)",
     "soil_type": "Well-drained; tolerates poor, rocky soils",
@@ -17,7 +19,7 @@
     "scientific_name": "Lupinus polyphyllus",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Medium",
     "soil_type": "Moist, well-drained; fixes nitrogen",
@@ -26,11 +28,26 @@
     "slug": "big-leaf-lupine"
   },
   {
+    "common_name": "Blue Elderberry",
+    "scientific_name": "Sambucus cerulea",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; tolerates various soil types",
+    "image": "images/blue-elderberry.jpg",
+    "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
+    "slug": "blue-elderberry"
+  },
+  {
     "common_name": "Cascade Penstemon",
     "scientific_name": "Penstemon serrulatus",
     "plant_type": "Perennial",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Medium (tolerates seasonally wet soils)",
     "soil_type": "Moist, well-drained; tolerates various soil types",
@@ -39,11 +56,28 @@
     "slug": "cascade-penstemon"
   },
   {
+    "common_name": "Deer Fern",
+    "scientific_name": "Blechnum spicant",
+    "plant_type": "Fern",
+    "status": "planned",
+    "garden_area": [
+      "back"
+    ],
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium to High",
+    "soil_type": "Moist, acidic, humus-rich",
+    "image": "images/deer-fern.jpg",
+    "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
+    "slug": "deer-fern"
+  },
+  {
     "common_name": "Douglas Iris",
     "scientific_name": "Iris douglasiana",
     "plant_type": "Perennial",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Well-drained; tolerates clay and poor soils",
@@ -56,7 +90,9 @@
     "scientific_name": "Arctostaphylos manzanita 'Dr. Hurd'",
     "plant_type": "Shrub",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (drought tolerant once established)",
     "soil_type": "Well-drained; tolerates clay, sandy, rocky, and poor soils",
@@ -69,7 +105,7 @@
     "scientific_name": "Symphoricarpos mollis",
     "plant_type": "Shrub",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Full Sun/Part Shade/Full Shade (tolerates wide range)",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Adaptable; tolerates poor, dry soils",
@@ -82,7 +118,9 @@
     "scientific_name": "Vaccinium ovatum",
     "plant_type": "Shrub",
     "status": "planned",
-    "garden_area": "back",
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade (tolerates full sun near coast)",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Acidic, well-drained, humus-rich",
@@ -95,7 +133,7 @@
     "scientific_name": "Maianthemum racemosum",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "soil_type": "Rich, humusy, moist",
@@ -108,7 +146,7 @@
     "scientific_name": "Ribes sanguineum",
     "plant_type": "Shrub",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Well-drained; tolerates poor soils",
@@ -121,7 +159,7 @@
     "scientific_name": "Tiarella trifoliata",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "soil_type": "Rich, humusy, moist",
@@ -134,7 +172,9 @@
     "scientific_name": "Carex tumulicola",
     "plant_type": "Grass",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Part Shade/Part Sun (full sun along coast)",
     "water_needs": "Low-Medium (tolerates drought once established)",
     "soil_type": "Adaptable; tolerates various soils",
@@ -147,7 +187,10 @@
     "scientific_name": "Tellima grandiflora",
     "plant_type": "Perennial",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front",
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium (moist preferred)",
     "soil_type": "Adaptable; tolerates clay",
@@ -160,7 +203,7 @@
     "scientific_name": "Symphyotrichum ericoides",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Adaptable; tolerates poor, dry, rocky soils",
@@ -173,7 +216,9 @@
     "scientific_name": "Festuca idahoensis",
     "plant_type": "Grass",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Adaptable; tolerates sand, loam, and clay with good drainage",
@@ -186,7 +231,10 @@
     "scientific_name": "Vancouveria hexandra",
     "plant_type": "Perennial",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front",
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Low-Medium",
     "soil_type": "Well-drained, humusy",
@@ -199,7 +247,9 @@
     "scientific_name": "Arctostaphylos columbiana",
     "plant_type": "Shrub",
     "status": "none",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low (very drought tolerant once established)",
     "soil_type": "Well-drained, sandy or rocky; intolerant of wet soils",
@@ -212,7 +262,7 @@
     "scientific_name": "Sidalcea campestris",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Well-drained; tolerates heavy clay that dries in summer",
@@ -225,7 +275,9 @@
     "scientific_name": "Gymnocarpium dryopteris",
     "plant_type": "Fern",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium-High (needs consistent moisture)",
     "soil_type": "Humus-rich, moist; tolerates sandy and loamy soils",
@@ -238,7 +290,7 @@
     "scientific_name": "Holodiscus discolor",
     "plant_type": "Shrub",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (very drought tolerant once established)",
     "soil_type": "Adaptable; tolerates poor, rocky, dry soils",
@@ -251,7 +303,9 @@
     "scientific_name": "Paxistima myrsinites",
     "plant_type": "Shrub",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Part Shade/Full Shade (tolerates sun with moisture)",
     "water_needs": "Low-Medium",
     "soil_type": "Well-drained, humusy; tolerates rocky soils",
@@ -264,7 +318,9 @@
     "scientific_name": "Sidalcea oregana",
     "plant_type": "Perennial",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Medium-High (not drought tolerant; prefers moist conditions)",
     "soil_type": "Sandy or loamy; does not grow well in clay",
@@ -273,11 +329,67 @@
     "slug": "oregon-checkermallow"
   },
   {
+    "common_name": "Tall Oregon Grape",
+    "scientific_name": "Mahonia aquifolium",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": [],
+    "sun_requirements": "Part Shade/Full Shade (tolerates sun with moisture)",
+    "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; tolerates poor, rocky soils",
+    "image": "images/oregon-grape.jpg",
+    "photo_credit": "Photo: Didier Descouens | CC BY-SA 4.0",
+    "slug": "oregon-grape"
+  },
+  {
+    "common_name": "Oregon Stonecrop",
+    "scientific_name": "Sedum oreganum",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low (very drought tolerant)",
+    "soil_type": "Well-drained, rocky, sandy; tolerates poor soils",
+    "image": "images/oregon-stonecrop.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
+    "slug": "oregon-stonecrop"
+  },
+  {
+    "common_name": "Osoberry",
+    "scientific_name": "Oemleria cerasiformis",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": [
+      "back"
+    ],
+    "sun_requirements": "Part Shade/Full Shade (tolerates full sun with moisture)",
+    "water_needs": "Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; prefers moist, well-drained",
+    "image": "images/osoberry.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
+    "slug": "osoberry"
+  },
+  {
+    "common_name": "Pacific Madrone",
+    "scientific_name": "Arbutus menziesii",
+    "plant_type": "Tree",
+    "status": "planned",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Sun",
+    "water_needs": "Low (drought tolerant once established)",
+    "soil_type": "Well-drained; tolerates poor, rocky soils",
+    "image": "images/pacific-madrone.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
+    "slug": "pacific-madrone"
+  },
+  {
     "common_name": "Pacific Wax Myrtle",
     "scientific_name": "Myrica californica",
     "plant_type": "Shrub",
     "status": "none",
-    "garden_area": "back",
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Full Sun/Part Shade (grows best with some sunlight but tolerates almost full shade)",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Adaptable; tolerates poor, sandy soils",
@@ -290,7 +402,9 @@
     "scientific_name": "Tolmiea menziesii",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Low-Medium (more drought tolerant than expected)",
     "soil_type": "Rich, moist, well-drained",
@@ -299,11 +413,39 @@
     "slug": "piggyback-plant"
   },
   {
+    "common_name": "Red Elderberry",
+    "scientific_name": "Sambucus racemosa",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": [],
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium-High (prefers moist conditions)",
+    "soil_type": "Rich, moist, well-drained",
+    "image": "images/red-elderberry.jpg",
+    "photo_credit": "Photo: Robert Flogaus-Faust | CC BY 4.0",
+    "slug": "red-elderberry"
+  },
+  {
+    "common_name": "Red Huckleberry",
+    "scientific_name": "Vaccinium parvifolium",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": [
+      "back"
+    ],
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium",
+    "soil_type": "Acidic, humus-rich, well-drained",
+    "image": "images/red-huckleberry.jpg",
+    "photo_credit": "Photo: Meggar | CC BY-SA 3.0",
+    "slug": "red-huckleberry"
+  },
+  {
     "common_name": "Redwood Sorrel",
     "scientific_name": "Oxalis oregana",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "soil_type": "Rich, humusy, moist",
@@ -312,11 +454,28 @@
     "slug": "redwood-sorrel"
   },
   {
+    "common_name": "Salal",
+    "scientific_name": "Gaultheria shallon",
+    "plant_type": "Shrub",
+    "status": "planned",
+    "garden_area": [
+      "back"
+    ],
+    "sun_requirements": "Part Shade/Full Shade (tolerates sun with moisture)",
+    "water_needs": "Low to Medium (drought tolerant once established)",
+    "soil_type": "Acidic, well-drained; tolerates poor soils",
+    "image": "images/salal.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
+    "slug": "salal"
+  },
+  {
     "common_name": "Seaside Daisy",
     "scientific_name": "Erigeron glaucus",
     "plant_type": "Perennial",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Well-drained, sandy; tolerates poor soils",
@@ -329,7 +488,9 @@
     "scientific_name": "Amelanchier alnifolia",
     "plant_type": "Shrub",
     "status": "planned",
-    "garden_area": "back",
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Adaptable; prefers well-drained",
@@ -341,8 +502,10 @@
     "common_name": "Common Snowberry",
     "scientific_name": "Symphoricarpos albus",
     "plant_type": "Shrub",
-    "status": "planned",
-    "garden_area": "front",
+    "status": "none",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade/Full Shade",
     "water_needs": "Low-Medium (very adaptable)",
     "soil_type": "Highly adaptable; tolerates poor, wet, dry, and heavy clay soils",
@@ -355,7 +518,9 @@
     "scientific_name": "Urtica dioica",
     "plant_type": "Perennial",
     "status": "planned",
-    "garden_area": "back",
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Medium-High (prefers moist conditions)",
     "soil_type": "Rich, moist; tolerates clay",
@@ -368,7 +533,10 @@
     "scientific_name": "Polystichum munitum",
     "plant_type": "Fern",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front",
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "soil_type": "Rich, humusy, well-drained",
@@ -381,7 +549,9 @@
     "scientific_name": "Deschampsia cespitosa",
     "plant_type": "Grass",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Part Shade/Part Sun (full sun reduces foliage quality)",
     "water_needs": "Medium-High (prefers moist to wet soil)",
     "soil_type": "Humus-rich; tolerates heavy soils; adaptable to poor, acidic, or heavy metal soils",
@@ -390,11 +560,26 @@
     "slug": "tufted-hair-grass"
   },
   {
+    "common_name": "Vanilla Leaf",
+    "scientific_name": "Achlys triphylla",
+    "plant_type": "Perennial",
+    "status": "planned",
+    "garden_area": [],
+    "sun_requirements": "Part Shade/Full Shade",
+    "water_needs": "Medium (drought tolerant once established)",
+    "soil_type": "Rich, well-drained, high organic matter; tolerates average soils",
+    "image": "images/vanilla-leaf.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
+    "slug": "vanilla-leaf"
+  },
+  {
     "common_name": "Vine Maple",
     "scientific_name": "Acer circinatum",
     "plant_type": "Tree",
     "status": "none",
-    "garden_area": "back",
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade (tolerates sun with adequate moisture)",
     "water_needs": "Low-Medium (dry to moist)",
     "soil_type": "Adaptable; prefers rich, well-drained",
@@ -407,7 +592,7 @@
     "scientific_name": "Dicentra formosa",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "soil_type": "Rich, moist, well-drained",
@@ -420,7 +605,7 @@
     "scientific_name": "Trillium ovatum",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "",
+    "garden_area": [],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "soil_type": "Rich, humusy, well-drained",
@@ -433,7 +618,9 @@
     "scientific_name": "Achillea millefolium",
     "plant_type": "Perennial",
     "status": "planned",
-    "garden_area": "front",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun",
     "water_needs": "Low (very drought tolerant)",
     "soil_type": "Well-drained; tolerates poor, dry, sandy soils",
@@ -446,7 +633,9 @@
     "scientific_name": "Asarum caudatum",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": "back",
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "soil_type": "Rich, humusy, moist",

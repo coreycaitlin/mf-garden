@@ -163,11 +163,12 @@ function applyFilters() {
         }
 
         if (areaValue !== 'all') {
+            const areas = plant.garden_area || [];
             if (areaValue === 'unassigned') {
-                if (plant.garden_area && plant.garden_area !== '') {
+                if (areas.length > 0) {
                     return false;
                 }
-            } else if (plant.garden_area?.toLowerCase() !== areaValue.toLowerCase()) {
+            } else if (!areas.some(a => a.toLowerCase() === areaValue.toLowerCase())) {
                 return false;
             }
         }
