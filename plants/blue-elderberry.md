@@ -3,7 +3,7 @@ common_name: "Blue Elderberry"
 scientific_name: "Sambucus cerulea"
 plant_type: "Shrub"
 status: "planned"
-garden_area: ["back"]
+garden_area: []
 ---
 
 # Blue Elderberry

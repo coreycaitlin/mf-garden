@@ -32,9 +32,7 @@
     "scientific_name": "Sambucus cerulea",
     "plant_type": "Shrub",
     "status": "planned",
-    "garden_area": [
-      "back"
-    ],
+    "garden_area": [],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Adaptable; tolerates various soil types",
@@ -496,9 +494,7 @@
     "scientific_name": "Amelanchier alnifolia",
     "plant_type": "Shrub",
     "status": "planned",
-    "garden_area": [
-      "back"
-    ],
+    "garden_area": [],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Adaptable; prefers well-drained",
