@@ -3,7 +3,7 @@ common_name: "Western Trillium"
 scientific_name: "Trillium ovatum"
 plant_type: "Perennial"
 status: "none"
-garden_area: []
+garden_area: ["back"]
 ---
 
 # Western Trillium

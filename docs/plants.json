@@ -32,7 +32,9 @@
     "scientific_name": "Sambucus cerulea",
     "plant_type": "Shrub",
     "status": "planned",
-    "garden_area": [],
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low-Medium (drought tolerant once established)",
     "soil_type": "Adaptable; tolerates various soil types",
@@ -133,7 +135,9 @@
     "scientific_name": "Maianthemum racemosum",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": [],
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "soil_type": "Rich, humusy, moist",
@@ -290,7 +294,9 @@
     "scientific_name": "Holodiscus discolor",
     "plant_type": "Shrub",
     "status": "none",
-    "garden_area": [],
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (very drought tolerant once established)",
     "soil_type": "Adaptable; tolerates poor, rocky, dry soils",
@@ -417,7 +423,9 @@
     "scientific_name": "Sambucus racemosa",
     "plant_type": "Shrub",
     "status": "planned",
-    "garden_area": [],
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium-High (prefers moist conditions)",
     "soil_type": "Rich, moist, well-drained",
@@ -605,7 +613,9 @@
     "scientific_name": "Trillium ovatum",
     "plant_type": "Perennial",
     "status": "none",
-    "garden_area": [],
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
     "soil_type": "Rich, humusy, well-drained",
