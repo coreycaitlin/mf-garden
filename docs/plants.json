@@ -59,7 +59,7 @@
     "common_name": "Deer Fern",
     "scientific_name": "Blechnum spicant",
     "plant_type": "Fern",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -190,8 +190,7 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": [
-      "front",
-      "back"
+      "front"
     ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium (moist preferred)",
@@ -234,8 +233,7 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": [
-      "front",
-      "back"
+      "front"
     ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Low-Medium",
@@ -291,7 +289,7 @@
     "common_name": "Ocean Spray",
     "scientific_name": "Holodiscus discolor",
     "plant_type": "Shrub",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -390,7 +388,7 @@
     "common_name": "Pacific Wax Myrtle",
     "scientific_name": "Myrica californica",
     "plant_type": "Shrub",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -420,7 +418,7 @@
     "common_name": "Red Elderberry",
     "scientific_name": "Sambucus racemosa",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -435,7 +433,7 @@
     "common_name": "Red Huckleberry",
     "scientific_name": "Vaccinium parvifolium",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -521,7 +519,7 @@
     "common_name": "Stinging Nettle",
     "scientific_name": "Urtica dioica",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -538,8 +536,7 @@
     "plant_type": "Fern",
     "status": "planned",
     "garden_area": [
-      "front",
-      "back"
+      "front"
     ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
