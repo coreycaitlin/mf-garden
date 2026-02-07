@@ -48,8 +48,8 @@ garden_area: ["back"]
 - **Companion plants:** Red flowering currant, salal, sword fern
 
 ## Sourcing
-- **Purchase source:**
-- **Cost per plant:**
+- **Purchase source:** Go Natives! Nursery (Shoreline) - https://gonativesnursery.company.site
+- **Cost per plant:** $14.00
 - **Date purchased:**
 - **Date planted:**
 

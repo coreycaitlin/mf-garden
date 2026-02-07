@@ -49,8 +49,8 @@ garden_area: ["back"]
 - **Companion plants:** Salal, Oregon grape, red flowering currant, sword fern
 
 ## Sourcing
-- **Purchase source:**
-- **Cost per plant:**
+- **Purchase source:** Woodbrook Native Plant Nursery (Gig Harbor) - https://woodbrooknativeplantnursery.com; also Go Natives! Nursery (Shoreline)
+- **Cost per plant:** $15.00 (1-gal at Woodbrook), $18.00 (Go Natives)
 - **Date purchased:**
 - **Date planted:**
 

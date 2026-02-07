@@ -49,8 +49,8 @@ garden_area: ["back"]
 - **Companion plants:** Sword fern, salal, Oregon grape, rhododendrons
 
 ## Sourcing
-- **Purchase source:**
-- **Cost per plant:**
+- **Purchase source:** Go Natives! Nursery (Shoreline) - https://gonativesnursery.company.site
+- **Cost per plant:** $39.00
 - **Date purchased:**
 - **Date planted:**
 

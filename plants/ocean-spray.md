@@ -48,8 +48,8 @@ garden_area: ["back"]
 - **Companion plants:** Snowberry, Oregon grape, serviceberry, native roses
 
 ## Sourcing
-- **Purchase source:**
-- **Cost per plant:**
+- **Purchase source:** Woodbrook Native Plant Nursery (Gig Harbor) - https://woodbrooknativeplantnursery.com
+- **Cost per plant:** $11.98 (1-gal), $24.98 (2-gal), $44.98 (5-gal)
 - **Date purchased:**
 - **Date planted:**
 

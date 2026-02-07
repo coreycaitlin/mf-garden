@@ -48,8 +48,8 @@ garden_area: ["back"]
 - **Companion plants:** Sword fern, evergreen huckleberry, Oregon grape
 
 ## Sourcing
-- **Purchase source:**
-- **Cost per plant:**
+- **Purchase source:** Woodbrook Native Plant Nursery (Gig Harbor) - https://woodbrooknativeplantnursery.com
+- **Cost per plant:** $18.00 (1-gal), $8.98 (quart), $6.75 (3.5")
 - **Date purchased:**
 - **Date planted:**
 
