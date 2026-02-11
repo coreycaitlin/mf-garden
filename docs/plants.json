@@ -59,7 +59,7 @@
     "common_name": "Deer Fern",
     "scientific_name": "Blechnum spicant",
     "plant_type": "Fern",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -69,6 +69,19 @@
     "image": "images/deer-fern.jpg",
     "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "deer-fern"
+  },
+  {
+    "common_name": "Douglas Fir",
+    "scientific_name": "Pseudotsuga menziesii",
+    "plant_type": "Tree",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Sun",
+    "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; prefers deep, moist, well-drained",
+    "image": "images/douglas-fir.jpg",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
+    "slug": "douglas-fir"
   },
   {
     "common_name": "Douglas Iris",
@@ -190,7 +203,8 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": [
-      "front"
+      "front",
+      "back"
     ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium (moist preferred)",
@@ -233,7 +247,8 @@
     "plant_type": "Perennial",
     "status": "planned",
     "garden_area": [
-      "front"
+      "front",
+      "back"
     ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Low-Medium",
@@ -289,7 +304,7 @@
     "common_name": "Ocean Spray",
     "scientific_name": "Holodiscus discolor",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -388,7 +403,7 @@
     "common_name": "Pacific Wax Myrtle",
     "scientific_name": "Myrica californica",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -418,7 +433,7 @@
     "common_name": "Red Elderberry",
     "scientific_name": "Sambucus racemosa",
     "plant_type": "Shrub",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -433,7 +448,7 @@
     "common_name": "Red Huckleberry",
     "scientific_name": "Vaccinium parvifolium",
     "plant_type": "Shrub",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -519,7 +534,7 @@
     "common_name": "Stinging Nettle",
     "scientific_name": "Urtica dioica",
     "plant_type": "Perennial",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -536,7 +551,8 @@
     "plant_type": "Fern",
     "status": "planned",
     "garden_area": [
-      "front"
+      "front",
+      "back"
     ],
     "sun_requirements": "Part Shade/Full Shade",
     "water_needs": "Medium",
