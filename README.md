@@ -14,6 +14,7 @@ Native plant garden in PNW
 | [Cascade Penstemon](plants/cascade-penstemon.md) | *Penstemon serrulatus* | Perennial |
 | [Common Snowberry](plants/snowberry.md) | *Symphoricarpos albus* | Shrub |
 | [Deer Fern](plants/deer-fern.md) | *Blechnum spicant* | Fern |
+| [Douglas Fir](plants/douglas-fir.md) | *Pseudotsuga menziesii* | Tree |
 | [Douglas Iris](plants/douglas-iris.md) | *Iris douglasiana* | Perennial |
 | [Dr. Hurd Manzanita](plants/dr-hurd-manzanita.md) | *Arctostaphylos manzanita 'Dr. Hurd'* | Shrub |
 | [Dwarf Snowberry](plants/dwarf-snowberry.md) | *Symphoricarpos mollis* | Shrub |
