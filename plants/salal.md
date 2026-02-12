@@ -2,6 +2,7 @@
 common_name: "Salal"
 scientific_name: "Gaultheria shallon"
 plant_type: "Shrub"
+layer: "groundcover"
 status: "planned"
 garden_area: ["back"]
 ---

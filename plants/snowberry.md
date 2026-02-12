@@ -2,6 +2,7 @@
 common_name: "Common Snowberry"
 scientific_name: "Symphoricarpos albus"
 plant_type: "Shrub"
+layer: "structural"
 status: "none"
 garden_area: ["front"]
 ---

@@ -2,6 +2,7 @@
 common_name: "Red Huckleberry"
 scientific_name: "Vaccinium parvifolium"
 plant_type: "Shrub"
+layer: "structural"
 status: "planned"
 garden_area: ["back"]
 ---

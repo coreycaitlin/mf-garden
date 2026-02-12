@@ -2,6 +2,7 @@
 common_name: "Inside-out Flower"
 scientific_name: "Vancouveria hexandra"
 plant_type: "Perennial"
+layer: "groundcover"
 status: "planned"
 garden_area: ["front", "back"]
 ---

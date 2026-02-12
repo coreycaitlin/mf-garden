@@ -2,6 +2,7 @@
 common_name: "Blue Elderberry"
 scientific_name: "Sambucus cerulea"
 plant_type: "Shrub"
+layer: "structural"
 status: "planned"
 garden_area: []
 ---

@@ -2,6 +2,7 @@
 common_name: ""
 scientific_name: ""
 plant_type: ""
+layer: "" # structural, seasonal_theme, groundcover, filler
 status: "planned" # planned, purchased, planted, established
 garden_area: [] # e.g., ["front"] or ["front", "back"]
 ---

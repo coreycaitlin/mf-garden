@@ -2,6 +2,7 @@
 common_name: "Tall Oregon Grape"
 scientific_name: "Mahonia aquifolium"
 plant_type: "Shrub"
+layer: "structural"
 status: "planned"
 garden_area: []
 ---

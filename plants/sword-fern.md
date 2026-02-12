@@ -2,6 +2,7 @@
 common_name: "Sword Fern"
 scientific_name: "Polystichum munitum"
 plant_type: "Fern"
+layer: "groundcover"
 status: "planned"
 garden_area: ["front", "back"]
 ---

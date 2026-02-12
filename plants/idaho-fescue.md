@@ -2,6 +2,7 @@
 common_name: "Idaho Fescue"
 scientific_name: "Festuca idahoensis"
 plant_type: "Grass"
+layer: "groundcover"
 status: "planned"
 garden_area: ["front"]
 ---

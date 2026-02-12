@@ -2,6 +2,7 @@
 common_name: "Stinging Nettle"
 scientific_name: "Urtica dioica"
 plant_type: "Perennial"
+layer: "seasonal_theme"
 status: "planned"
 garden_area: ["back"]
 ---

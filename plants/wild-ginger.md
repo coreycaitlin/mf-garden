@@ -2,6 +2,7 @@
 common_name: "Wild Ginger"
 scientific_name: "Asarum caudatum"
 plant_type: "Perennial"
+layer: "groundcover"
 status: "none"
 garden_area: ["back"]
 ---

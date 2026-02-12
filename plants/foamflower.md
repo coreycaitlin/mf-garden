@@ -2,6 +2,7 @@
 common_name: "Foamflower"
 scientific_name: "Tiarella trifoliata"
 plant_type: "Perennial"
+layer: "groundcover"
 status: "none"
 garden_area: []
 ---

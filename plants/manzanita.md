@@ -2,6 +2,7 @@
 common_name: "Manzanita"
 scientific_name: "Arctostaphylos columbiana"
 plant_type: "Shrub"
+layer: "structural"
 status: "none"
 garden_area: ["front"]
 ---

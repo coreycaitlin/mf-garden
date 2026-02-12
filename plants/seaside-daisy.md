@@ -2,6 +2,7 @@
 common_name: "Seaside Daisy"
 scientific_name: "Erigeron glaucus"
 plant_type: "Perennial"
+layer: "seasonal_theme"
 status: "planned"
 garden_area: ["front"]
 ---

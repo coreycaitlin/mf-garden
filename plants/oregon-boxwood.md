@@ -2,6 +2,7 @@
 common_name: "Oregon Boxwood"
 scientific_name: "Paxistima myrsinites"
 plant_type: "Shrub"
+layer: "structural"
 status: "planned"
 garden_area: ["front"]
 ---

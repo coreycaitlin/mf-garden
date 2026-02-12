@@ -2,6 +2,7 @@
 common_name: "Vanilla Leaf"
 scientific_name: "Achlys triphylla"
 plant_type: "Perennial"
+layer: "groundcover"
 status: "planned"
 garden_area: []
 ---

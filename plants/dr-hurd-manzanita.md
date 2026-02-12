@@ -2,6 +2,7 @@
 common_name: "Dr. Hurd Manzanita"
 scientific_name: "Arctostaphylos manzanita 'Dr. Hurd'"
 plant_type: "Shrub"
+layer: "structural"
 status: "planned"
 garden_area: ["front"]
 ---

@@ -2,6 +2,7 @@
 common_name: "White Yarrow"
 scientific_name: "Achillea millefolium"
 plant_type: "Perennial"
+layer: "seasonal_theme"
 status: "planned"
 garden_area: ["front"]
 ---

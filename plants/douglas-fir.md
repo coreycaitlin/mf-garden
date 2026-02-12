@@ -2,6 +2,7 @@
 common_name: "Douglas Fir"
 scientific_name: "Pseudotsuga menziesii"
 plant_type: "Tree"
+layer: "structural"
 status: "none"
 garden_area: []
 ---

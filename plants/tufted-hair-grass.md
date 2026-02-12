@@ -2,6 +2,7 @@
 common_name: "Tufted Hair Grass"
 scientific_name: "Deschampsia cespitosa"
 plant_type: "Grass"
+layer: "seasonal_theme"
 status: "planned"
 garden_area: ["front"]
 ---

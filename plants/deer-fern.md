@@ -2,6 +2,7 @@
 common_name: "Deer Fern"
 scientific_name: "Blechnum spicant"
 plant_type: "Fern"
+layer: "groundcover"
 status: "planned"
 garden_area: ["back"]
 ---

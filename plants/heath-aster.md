@@ -2,6 +2,7 @@
 common_name: "Heath Aster"
 scientific_name: "Symphyotrichum ericoides"
 plant_type: "Perennial"
+layer: "seasonal_theme"
 status: "none"
 garden_area: []
 ---

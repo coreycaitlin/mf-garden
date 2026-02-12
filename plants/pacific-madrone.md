@@ -2,6 +2,7 @@
 common_name: "Pacific Madrone"
 scientific_name: "Arbutus menziesii"
 plant_type: "Tree"
+layer: "structural"
 status: "planned"
 garden_area: []
 ---

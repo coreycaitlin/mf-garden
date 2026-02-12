@@ -2,6 +2,7 @@
 common_name: "Western Serviceberry"
 scientific_name: "Amelanchier alnifolia"
 plant_type: "Shrub"
+layer: "structural"
 status: "planned"
 garden_area: []
 ---

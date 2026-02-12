@@ -2,6 +2,7 @@
 common_name: "Red Elderberry"
 scientific_name: "Sambucus racemosa"
 plant_type: "Shrub"
+layer: "structural"
 status: "planned"
 garden_area: ["back"]
 ---
