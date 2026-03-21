@@ -59,7 +59,7 @@
     "common_name": "Deer Fern",
     "scientific_name": "Blechnum spicant",
     "plant_type": "Fern",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -201,7 +201,7 @@
     "common_name": "Fringecup",
     "scientific_name": "Tellima grandiflora",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "front",
       "back"
@@ -245,7 +245,7 @@
     "common_name": "Inside-out Flower",
     "scientific_name": "Vancouveria hexandra",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "front",
       "back"
@@ -433,7 +433,7 @@
     "common_name": "Red Elderberry",
     "scientific_name": "Sambucus racemosa",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -448,7 +448,7 @@
     "common_name": "Red Huckleberry",
     "scientific_name": "Vaccinium parvifolium",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -534,7 +534,7 @@
     "common_name": "Stinging Nettle",
     "scientific_name": "Urtica dioica",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "back"
     ],
@@ -549,7 +549,7 @@
     "common_name": "Sword Fern",
     "scientific_name": "Polystichum munitum",
     "plant_type": "Fern",
-    "status": "planned",
+    "status": "none",
     "garden_area": [
       "front",
       "back"
