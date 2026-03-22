@@ -245,7 +245,7 @@
     "common_name": "Inside-out Flower",
     "scientific_name": "Vancouveria hexandra",
     "plant_type": "Perennial",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "front",
       "back"
@@ -651,7 +651,7 @@
     "common_name": "Wild Ginger",
     "scientific_name": "Asarum caudatum",
     "plant_type": "Perennial",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
