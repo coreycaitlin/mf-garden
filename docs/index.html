@@ -12,49 +12,82 @@
         <p class="subtitle">Corey is going to plant some plants.</p>
     </header>
 
-    <main>
-        <section class="filters">
-            <div class="filter-group">
-                <label for="status-filter">Status:</label>
-                <select id="status-filter">
-                    <option value="all">All</option>
-                    <option value="planned">Planned</option>
-                    <option value="purchased">Purchased</option>
-                    <option value="planted">Planted</option>
-                    <option value="established">Established</option>
-                    <option value="none">None</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="area-filter">Garden Area:</label>
-                <select id="area-filter">
-                    <option value="all">All</option>
-                    <option value="front">Front</option>
-                    <option value="back">Back</option>
-                    <option value="unassigned">Unassigned</option>
-                </select>
-            </div>
-            <div class="filter-info">
-                <span id="plant-count">0 plants</span>
-            </div>
-        </section>
+    <nav class="tab-nav">
+        <button class="tab-btn active" data-tab="catalog">Plant Catalog</button>
+        <button class="tab-btn" data-tab="log">Plant Log</button>
+    </nav>
 
-        <section class="table-container">
-            <table id="plant-table">
-                <thead>
-                    <tr>
-                        <th data-sort="common_name">Common Name <span class="sort-icon"></span></th>
-                        <th data-sort="scientific_name">Scientific Name <span class="sort-icon"></span></th>
-                        <th data-sort="plant_type">Type <span class="sort-icon"></span></th>
-                        <th data-sort="sun_requirements">Sun <span class="sort-icon"></span></th>
-                        <th data-sort="water_needs">Water <span class="sort-icon"></span></th>
-                        <th data-sort="soil_type">Soil <span class="sort-icon"></span></th>
-                    </tr>
-                </thead>
-                <tbody id="plant-tbody">
-                </tbody>
-            </table>
-        </section>
+    <main>
+        <!-- Plant Catalog Tab -->
+        <div id="tab-catalog" class="tab-content active">
+            <section class="filters">
+                <div class="filter-group">
+                    <label for="status-filter">Status:</label>
+                    <select id="status-filter">
+                        <option value="all">All</option>
+                        <option value="planned">Planned</option>
+                        <option value="purchased">Purchased</option>
+                        <option value="planted">Planted</option>
+                        <option value="established">Established</option>
+                        <option value="none">None</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="area-filter">Garden Area:</label>
+                    <select id="area-filter">
+                        <option value="all">All</option>
+                        <option value="front">Front</option>
+                        <option value="back">Back</option>
+                        <option value="unassigned">Unassigned</option>
+                    </select>
+                </div>
+                <div class="filter-info">
+                    <span id="plant-count">0 plants</span>
+                </div>
+            </section>
+
+            <section class="table-container">
+                <table id="plant-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="common_name">Common Name <span class="sort-icon"></span></th>
+                            <th data-sort="scientific_name">Scientific Name <span class="sort-icon"></span></th>
+                            <th data-sort="plant_type">Type <span class="sort-icon"></span></th>
+                            <th data-sort="sun_requirements">Sun <span class="sort-icon"></span></th>
+                            <th data-sort="water_needs">Water <span class="sort-icon"></span></th>
+                            <th data-sort="soil_type">Soil <span class="sort-icon"></span></th>
+                        </tr>
+                    </thead>
+                    <tbody id="plant-tbody">
+                    </tbody>
+                </table>
+            </section>
+        </div>
+
+        <!-- Plant Log Tab -->
+        <div id="tab-log" class="tab-content">
+            <section class="log-controls">
+                <span id="log-count">0 entries</span>
+            </section>
+
+            <section class="table-container">
+                <table id="log-table">
+                    <thead>
+                        <tr>
+                            <th>Plant</th>
+                            <th>Purchase Date</th>
+                            <th>Source</th>
+                            <th>Pot Size</th>
+                            <th>Planted Date</th>
+                            <th>Location</th>
+                            <th>Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody id="log-tbody">
+                    </tbody>
+                </table>
+            </section>
+        </div>
     </main>
 
     <footer>

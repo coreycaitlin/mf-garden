@@ -1,0 +1,12 @@
+[
+  {
+    "id": "log-001",
+    "plant_slug": "inside-out-flower",
+    "purchase_date": "2026-03-23",
+    "source": "Swansons Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": "Example entry — update when planted"
+  }
+]
