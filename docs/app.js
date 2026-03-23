@@ -8,6 +8,7 @@ let plants = [];
 let filteredPlants = [];
 let sortColumn = 'common_name';
 let sortDirection = 'asc';
+let plantLog = [];
 
 // DOM Elements
 const plantTbody = document.getElementById('plant-tbody');
@@ -237,7 +238,82 @@ function initLightbox() {
     });
 }
 
+/**
+ * Fetch plant log data and render it
+ */
+async function fetchPlantLog() {
+    try {
+        const response = await fetch('plant-log.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        plantLog = await response.json();
+        renderLog();
+    } catch (error) {
+        console.error('Error fetching plant log:', error);
+        document.getElementById('log-tbody').innerHTML = `
+            <tr>
+                <td colspan="7" class="no-results">Error loading plant log.</td>
+            </tr>
+        `;
+    }
+}
+
+/**
+ * Render plant log entries to the log table
+ */
+function renderLog() {
+    const tbody = document.getElementById('log-tbody');
+    const logCount = document.getElementById('log-count');
+
+    if (plantLog.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="7" class="no-results">No log entries yet.</td></tr>`;
+        logCount.textContent = '0 entries';
+        return;
+    }
+
+    tbody.innerHTML = plantLog.map(entry => {
+        const plant = plants.find(p => p.slug === entry.plant_slug);
+        const plantName = plant ? plant.common_name : entry.plant_slug;
+        const location = entry.grid_location
+            ? `(${entry.grid_location.x}, ${entry.grid_location.y})`
+            : '—';
+
+        return `
+            <tr>
+                <td>${plantName}</td>
+                <td>${entry.purchase_date || '—'}</td>
+                <td>${entry.source || '—'}</td>
+                <td>${entry.pot_size || '—'}</td>
+                <td>${entry.planted_date || '—'}</td>
+                <td>${location}</td>
+                <td>${entry.notes || ''}</td>
+            </tr>
+        `;
+    }).join('');
+
+    const count = plantLog.length;
+    logCount.textContent = `${count} entr${count !== 1 ? 'ies' : 'y'}`;
+}
+
+/**
+ * Initialize tab switching
+ */
+function initTabs() {
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const tab = btn.dataset.tab;
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+            btn.classList.add('active');
+            document.getElementById(`tab-${tab}`).classList.add('active');
+        });
+    });
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     init();
     initLightbox();
+    initTabs();
+    fetchPlantLog();
 });
