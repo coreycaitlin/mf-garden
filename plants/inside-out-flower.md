@@ -3,6 +3,7 @@ common_name: "Inside-out Flower"
 scientific_name: "Vancouveria hexandra"
 plant_type: "Perennial"
 layer: "groundcover"
+root_type: "taproot"
 status: "planted"
 garden_area: ["front", "back"]
 ---
@@ -23,7 +24,7 @@ garden_area: ["front", "back"]
 - **Mature spread:** 12-24 inches (spreads by rhizomes)
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived perennial
-- **Roots:**
+- **Roots:** Taproot
 
 ## Growing conditions
 - **Sun requirements:** Part Shade/Full Shade
