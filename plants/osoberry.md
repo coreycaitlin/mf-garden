@@ -3,7 +3,7 @@ common_name: "Osoberry"
 scientific_name: "Oemleria cerasiformis"
 plant_type: "Shrub"
 layer: "structural"
-status: "planned"
+status: "planted"
 garden_area: ["back"]
 ---
 
