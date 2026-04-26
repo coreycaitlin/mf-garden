@@ -27,6 +27,7 @@ Native plant garden in PNW
 | [Heath Aster](plants/heath-aster.md) | *Symphyotrichum ericoides* | Perennial |
 | [Idaho Fescue](plants/idaho-fescue.md) | *Festuca idahoensis* | Grass |
 | [Inside-out Flower](plants/inside-out-flower.md) | *Vancouveria hexandra* | Perennial |
+| [Lady Fern](plants/lady-fern.md) | *Athyrium filix-femina var. cyclosorum* | Fern |
 | [Manzanita](plants/manzanita.md) | *Arctostaphylos columbiana* | Shrub |
 | [Meadow Checkermallow](plants/meadow-checkermallow.md) | *Sidalcea campestris* | Perennial |
 | [Oak Fern](plants/oak-fern.md) | *Gymnocarpium dryopteris* | Fern |
