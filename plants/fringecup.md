@@ -3,7 +3,7 @@ common_name: "Fringecup"
 scientific_name: "Tellima grandiflora"
 plant_type: "Perennial"
 layer: "groundcover"
-status: "planned"
+status: "planted"
 garden_area: ["front", "back"]
 ---
 

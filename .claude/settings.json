@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=$(jq -r '.tool_input.file_path // empty'); echo \"$f\" | grep -q 'plant-log.json' && python3 /home/user/mf-garden/scripts/sync-plant-status.py 2>/dev/null || true",
+            "statusMessage": "Syncing plant statuses..."
+          }
+        ]
+      }
+    ]
+  }
+}

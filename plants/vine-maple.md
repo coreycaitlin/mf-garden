@@ -3,7 +3,7 @@ common_name: "Vine Maple"
 scientific_name: "Acer circinatum"
 plant_type: "Tree"
 layer: "structural"
-status: "none"
+status: "planted"
 garden_area: ["back"]
 ---
 
