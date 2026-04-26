@@ -3,7 +3,7 @@ common_name: "Lady Fern"
 scientific_name: "Athyrium filix-femina var. cyclosorum"
 plant_type: "Fern"
 layer: "groundcover"
-status: "none"
+status: "planted"
 garden_area: ["back"]
 ---
 
