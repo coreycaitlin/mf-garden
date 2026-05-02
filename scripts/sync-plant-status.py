@@ -14,7 +14,7 @@ REPO = Path(__file__).parent.parent
 LOG_FILE = REPO / "docs" / "plant-log.json"
 PLANTS_DIR = REPO / "plants"
 
-UPGRADE_FROM = {"planned", "purchased"}
+UPGRADE_FROM = {"planned", "purchased", "none"}
 
 
 def update_status(plant_file: Path, new_status: str) -> bool:
