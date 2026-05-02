@@ -59,7 +59,7 @@
     "common_name": "Deer Fern",
     "scientific_name": "Blechnum spicant",
     "plant_type": "Fern",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -130,7 +130,7 @@
     "common_name": "Evergreen Huckleberry",
     "scientific_name": "Vaccinium ovatum",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "back"
     ],
@@ -145,7 +145,7 @@
     "common_name": "False Solomon's Seal",
     "scientific_name": "Maianthemum racemosum",
     "plant_type": "Perennial",
-    "status": "none",
+    "status": "planted",
     "garden_area": [
       "back"
     ],
@@ -201,7 +201,7 @@
     "common_name": "Fringecup",
     "scientific_name": "Tellima grandiflora",
     "plant_type": "Perennial",
-    "status": "none",
+    "status": "planted",
     "garden_area": [
       "front",
       "back"
@@ -245,7 +245,7 @@
     "common_name": "Inside-out Flower",
     "scientific_name": "Vancouveria hexandra",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front",
       "back"
@@ -256,6 +256,21 @@
     "image": "images/inside-out-flower.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "inside-out-flower"
+  },
+  {
+    "common_name": "Lady Fern",
+    "scientific_name": "Athyrium filix-femina var. cyclosorum",
+    "plant_type": "Fern",
+    "status": "planted",
+    "garden_area": [
+      "back"
+    ],
+    "sun_requirements": "Part Shade/Full Shade (tolerates more sun with consistent moisture)",
+    "water_needs": "Medium-High (needs consistent moisture; not drought tolerant)",
+    "soil_type": "Moist, well-drained, rich, slightly acidic",
+    "image": null,
+    "photo_credit": "",
+    "slug": "lady-fern"
   },
   {
     "common_name": "Manzanita",
@@ -375,7 +390,7 @@
     "common_name": "Osoberry",
     "scientific_name": "Oemleria cerasiformis",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "back"
     ],
@@ -403,7 +418,7 @@
     "common_name": "Pacific Wax Myrtle",
     "scientific_name": "Myrica californica",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "back"
     ],
@@ -418,7 +433,7 @@
     "common_name": "Piggyback Plant",
     "scientific_name": "Tolmiea menziesii",
     "plant_type": "Perennial",
-    "status": "none",
+    "status": "planted",
     "garden_area": [
       "back"
     ],
@@ -433,7 +448,7 @@
     "common_name": "Red Elderberry",
     "scientific_name": "Sambucus racemosa",
     "plant_type": "Shrub",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -448,7 +463,7 @@
     "common_name": "Red Huckleberry",
     "scientific_name": "Vaccinium parvifolium",
     "plant_type": "Shrub",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -476,7 +491,7 @@
     "common_name": "Salal",
     "scientific_name": "Gaultheria shallon",
     "plant_type": "Shrub",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "back"
     ],
@@ -519,7 +534,7 @@
     "common_name": "Common Snowberry",
     "scientific_name": "Symphoricarpos albus",
     "plant_type": "Shrub",
-    "status": "none",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -534,7 +549,7 @@
     "common_name": "Stinging Nettle",
     "scientific_name": "Urtica dioica",
     "plant_type": "Perennial",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "back"
     ],
@@ -549,7 +564,7 @@
     "common_name": "Sword Fern",
     "scientific_name": "Polystichum munitum",
     "plant_type": "Fern",
-    "status": "none",
+    "status": "planned",
     "garden_area": [
       "front",
       "back"
@@ -593,7 +608,7 @@
     "common_name": "Vine Maple",
     "scientific_name": "Acer circinatum",
     "plant_type": "Tree",
-    "status": "none",
+    "status": "planted",
     "garden_area": [
       "back"
     ],
@@ -651,7 +666,7 @@
     "common_name": "Wild Ginger",
     "scientific_name": "Asarum caudatum",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "back"
     ],

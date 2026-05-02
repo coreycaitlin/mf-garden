@@ -3,7 +3,7 @@ common_name: "Pacific Wax Myrtle"
 scientific_name: "Myrica californica"
 plant_type: "Shrub"
 layer: "structural"
-status: "none"
+status: "planted"
 garden_area: ["back"]
 ---
 
