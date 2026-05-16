@@ -20,7 +20,7 @@ garden_area: ["front"]
 
 ## Growth characteristics
 - **Mature height:** 1-3 feet
-- **Mature spread:** 1-2 feet (spreads by rhizomes)
+- **Mature spread:** 1-3 feet (spreads by rhizomes)
 - **Growth rate:** Fast
 - **Lifespan:** Long-lived perennial
 - **Roots:**
@@ -71,3 +71,4 @@ garden_area: ["front"]
 - USDA Plants Database: https://plants.usda.gov/home/plantProfile?symbol=ACMI2
 - Lady Bird Johnson Wildflower Center: https://www.wildflower.org/plants/result.php?id_plant=acmi2
 - Xerces Society: https://xerces.org/pollinator-conservation/pollinator-friendly-plant-lists
+- NCSU Extension Plant Toolbox: https://plants.ces.ncsu.edu/plants/achillea-millefolium/
