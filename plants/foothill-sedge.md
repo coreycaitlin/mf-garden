@@ -19,7 +19,7 @@ garden_area: ["front"]
 
 ## Growth characteristics
 - **Mature height:** 18-24 inches
-- **Mature spread:** 12-18 inches (spreads slowly by rhizomes)
+- **Mature spread:** 1.5-3 feet (spreads slowly by rhizomes)
 - **Growth rate:** Medium
 - **Lifespan:** Long-lived perennial
 - **Roots:**
@@ -69,3 +69,5 @@ garden_area: ["front"]
 - King Conservation District: https://kingcd.org/foothill-sedge-native-plant-spotlight/
 - Sparrowhawk Native Plants: https://sparrowhawknativeplants.com/products/foothill-sedge
 - Lady Bird Johnson Wildflower Center: https://www.wildflower.org/plants/result.php?id_plant=CATU3
+- Gardenia: https://www.gardenia.net/plant/carex-tumulicola
+- California Flora Nursery: https://www.calfloranursery.com/plants/carex-tumulicola

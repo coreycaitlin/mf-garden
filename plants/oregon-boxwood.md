@@ -20,7 +20,7 @@ garden_area: ["front"]
 
 ## Growth characteristics
 - **Mature height:** 1-3 feet
-- **Mature spread:** 2-4 feet
+- **Mature spread:** 3-6 feet
 - **Growth rate:** Slow
 - **Lifespan:** Long-lived shrub
 - **Roots:**
@@ -71,3 +71,4 @@ garden_area: ["front"]
 - Lady Bird Johnson Wildflower Center: https://www.wildflower.org/plants/result.php?id_plant=pamy
 - Oregon State University Landscape Plants: https://landscapeplants.oregonstate.edu/plants/paxistima-myrsinites
 - Native Plants PNW: https://nativeplantspnw.com/oregon-boxwood-paxistima-myrsinites/
+- Plant Lust: https://plantlust.com/plants/9737/paxistima-myrsinites/
