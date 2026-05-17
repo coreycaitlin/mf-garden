@@ -9,7 +9,7 @@ garden_area: []
 
 # Mock Orange
 ![Mock Orange](../images/mock-orange.jpg)
-*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File:Philadelphus_lewisii_8739.JPG) | CC BY-SA 3.0*
+*Photo: [Thayne Tuason](https://commons.wikimedia.org/wiki/File:Philadelphus_lewisii_5.jpg) | CC BY-SA 4.0*
 
 ## Basic information
 - **Scientific name:** Philadelphus lewisii
