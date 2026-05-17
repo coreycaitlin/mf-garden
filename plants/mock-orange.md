@@ -46,7 +46,7 @@ garden_area: []
 - **Quantity needed:**
 - **Location/bed:**
 - **Spacing:** 5-8 feet apart
-- **Companion plants:** Ocean spray, serviceberry, oceanspray, snowberry, Oregon grape, flowering currant
+- **Companion plants:** Ocean spray, serviceberry, snowberry, Oregon grape, flowering currant
 
 ## Sourcing
 - **Purchase source:**
