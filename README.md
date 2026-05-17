@@ -30,6 +30,7 @@ Native plant garden in PNW
 | [Lady Fern](plants/lady-fern.md) | *Athyrium filix-femina var. cyclosorum* | Fern |
 | [Manzanita](plants/manzanita.md) | *Arctostaphylos columbiana* | Shrub |
 | [Meadow Checkermallow](plants/meadow-checkermallow.md) | *Sidalcea campestris* | Perennial |
+| [Mock Orange](plants/mock-orange.md) | *Philadelphus lewisii* | Shrub |
 | [Oak Fern](plants/oak-fern.md) | *Gymnocarpium dryopteris* | Fern |
 | [Ocean Spray](plants/ocean-spray.md) | *Holodiscus discolor* | Shrub |
 | [Oregon Boxwood](plants/oregon-boxwood.md) | *Paxistima myrsinites* | Shrub |
