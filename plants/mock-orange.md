@@ -3,7 +3,7 @@ common_name: "Mock Orange"
 scientific_name: "Philadelphus lewisii"
 plant_type: "Shrub"
 layer: "structural"
-status: "purchased"
+status: "planted"
 garden_area: []
 ---
 
@@ -49,10 +49,10 @@ garden_area: []
 - **Companion plants:** Ocean spray, serviceberry, snowberry, Oregon grape, flowering currant
 
 ## Sourcing
-- **Purchase source:**
+- **Purchase source:** Gift from Hannah T
 - **Cost per plant:**
-- **Date purchased:**
-- **Date planted:**
+- **Date purchased:** 2026-05-17
+- **Date planted:** 2026-05-17
 
 ## Care & maintenance
 - **Pruning needs:** Prune just after flowering; blooms on previous year's wood; remove oldest stems at base to rejuvenate

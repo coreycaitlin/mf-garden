@@ -468,5 +468,15 @@
     "planted_date": "2026-04-26",
     "grid_location": null,
     "notes": ""
+  },
+  {
+    "id": "log-048",
+    "plant_slug": "mock-orange",
+    "purchase_date": "2026-05-17",
+    "source": "Gift from Hannah T",
+    "pot_size": "1 gallon",
+    "planted_date": "2026-05-17",
+    "grid_location": null,
+    "notes": ""
   }
 ]
