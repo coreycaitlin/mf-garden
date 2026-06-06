@@ -28,6 +28,19 @@
     "slug": "big-leaf-lupine"
   },
   {
+    "common_name": "Bitter Cherry",
+    "scientific_name": "Prunus emarginata",
+    "plant_type": "Tree",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low-Medium (moist forests and streamsides to open, drier sites; little supplemental water once established)",
+    "soil_type": "Well-drained loam or sandy loam preferred; tolerates clay",
+    "image": "images/bitter-cherry.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "bitter-cherry"
+  },
+  {
     "common_name": "Blue Elderberry",
     "scientific_name": "Sambucus cerulea",
     "plant_type": "Shrub",
@@ -112,6 +125,19 @@
     "image": "images/dr-hurd-manzanita.jpg",
     "photo_credit": "Photo: Daderot | CC0",
     "slug": "dr-hurd-manzanita"
+  },
+  {
+    "common_name": "Dune Grass",
+    "scientific_name": "Leymus mollis",
+    "plant_type": "Grass",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun",
+    "water_needs": "Low (drought tolerant once established; salt-spray tolerant)",
+    "soil_type": "Sandy, well-drained soils; avoid heavy clay and rich/wet beds (prone to root rot)",
+    "image": "images/dune-grass.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "dune-grass"
   },
   {
     "common_name": "Dwarf Snowberry",
@@ -214,6 +240,32 @@
     "slug": "fringecup"
   },
   {
+    "common_name": "Gumweed",
+    "scientific_name": "Grindelia integrifolia",
+    "plant_type": "Perennial",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun (tolerates light shade)",
+    "water_needs": "Low (drought tolerant once established \u2014 wet in winter, dry in summer; salt-spray tolerant)",
+    "soil_type": "Sandy to clay, well-drained; tolerant of poor, compacted, and saline soils",
+    "image": "images/gumweed.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "gumweed"
+  },
+  {
+    "common_name": "Hardstem Bulrush",
+    "scientific_name": "Schoenoplectus acutus",
+    "plant_type": "Grass",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun",
+    "water_needs": "High (emergent aquatic \u2014 saturated soil to standing water up to ~5 ft deep)",
+    "soil_type": "Silts, loams, and organic sediments; tolerant of a range of soils if moist; high salinity tolerance",
+    "image": "images/hardstem-bulrush.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "hardstem-bulrush"
+  },
+  {
     "common_name": "Heath Aster",
     "scientific_name": "Symphyotrichum ericoides",
     "plant_type": "Perennial",
@@ -225,6 +277,19 @@
     "image": "images/heath-aster.jpg",
     "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "heath-aster"
+  },
+  {
+    "common_name": "Hooker's Willow",
+    "scientific_name": "Salix hookeriana",
+    "plant_type": "Shrub",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun",
+    "water_needs": "High (coastal wet habitats \u2014 moist to wet soils)",
+    "soil_type": "Sandy, loamy, or clay soils; tolerates saline soils",
+    "image": "images/hookers-willow.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "hookers-willow"
   },
   {
     "common_name": "Idaho Fescue",
@@ -299,6 +364,19 @@
     "image": "images/meadow-checkermallow.jpg",
     "photo_credit": "Photo: Amy Bartow, NRCS Corvallis PMC | Public Domain",
     "slug": "meadow-checkermallow"
+  },
+  {
+    "common_name": "Mock Orange",
+    "scientific_name": "Philadelphus lewisii",
+    "plant_type": "Shrub",
+    "status": "purchased",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Low-Medium (drought tolerant once established)",
+    "soil_type": "Adaptable; tolerates rocky, dry soils; prefers well-drained",
+    "image": "images/mock-orange.jpg",
+    "photo_credit": "Photo: Thayne Tuason | CC BY-SA 4.0",
+    "slug": "mock-orange"
   },
   {
     "common_name": "Oak Fern",
@@ -430,6 +508,19 @@
     "slug": "pacific-wax-myrtle"
   },
   {
+    "common_name": "Pacific Willow",
+    "scientific_name": "Salix lucida ssp. lasiandra",
+    "plant_type": "Tree",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun",
+    "water_needs": "High (moist to wet soils; flood tolerant)",
+    "soil_type": "Moist to wet gravelly, sandy, or clay soils",
+    "image": "images/pacific-willow.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "pacific-willow"
+  },
+  {
     "common_name": "Piggyback Plant",
     "scientific_name": "Tolmiea menziesii",
     "plant_type": "Perennial",
@@ -443,6 +534,19 @@
     "image": "images/piggyback-plant.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "piggyback-plant"
+  },
+  {
+    "common_name": "Red Alder",
+    "scientific_name": "Alnus rubra",
+    "plant_type": "Tree",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Medium-High (moist soils; tolerates wet, riparian sites)",
+    "soil_type": "Wide range, from gravels and sands to clay; nitrogen-fixing improves poor mineral soils",
+    "image": "images/red-alder.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "red-alder"
   },
   {
     "common_name": "Red Elderberry",
@@ -503,6 +607,19 @@
     "slug": "salal"
   },
   {
+    "common_name": "Saltmarsh Bulrush",
+    "scientific_name": "Bolboschoenus maritimus",
+    "plant_type": "Grass",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun",
+    "water_needs": "High (wetland \u2014 moist soil to ~1 ft standing water; tolerates inundation)",
+    "soil_type": "Wet, saline or alkaline soils; clays to silt loams to sands; high salinity tolerance (halophyte)",
+    "image": "images/saltmarsh-bulrush.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "saltmarsh-bulrush"
+  },
+  {
     "common_name": "Seaside Daisy",
     "scientific_name": "Erigeron glaucus",
     "plant_type": "Perennial",
@@ -529,6 +646,32 @@
     "image": "images/serviceberry.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "serviceberry"
+  },
+  {
+    "common_name": "Shore Pine",
+    "scientific_name": "Pinus contorta",
+    "plant_type": "Tree",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun",
+    "water_needs": "Low-Medium (highly adaptable \u2014 moist/boggy to well-drained or dry, nutrient-poor sites)",
+    "soil_type": "Adaptable to many soils \u2014 peat bogs, sandy, gravelly, and nutrient-poor; salt-spray tolerant",
+    "image": "images/shore-pine.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "shore-pine"
+  },
+  {
+    "common_name": "Sitka Sedge",
+    "scientific_name": "Carex sitchensis",
+    "plant_type": "Grass",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "High (wet \u2014 saturated soils, shallow water)",
+    "soil_type": "Adaptable; tolerates sandy, loamy, and clay soils; prefers consistently wet ground",
+    "image": "images/sitka-sedge.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "sitka-sedge"
   },
   {
     "common_name": "Common Snowberry",
@@ -559,6 +702,19 @@
     "image": "images/stinging-nettle.jpg",
     "photo_credit": "Photo: Uwe H. Friese | CC BY-SA 3.0",
     "slug": "stinging-nettle"
+  },
+  {
+    "common_name": "Sweetgale",
+    "scientific_name": "Myrica gale",
+    "plant_type": "Shrub",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Shade",
+    "water_needs": "Medium-High (moist to wet; avoid stagnant waterlogging)",
+    "soil_type": "Sandy, loamy, or peaty soils; acidic; salt-spray tolerant in shoreline plantings",
+    "image": "images/sweetgale.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "sweetgale"
   },
   {
     "common_name": "Sword Fern",
@@ -631,6 +787,19 @@
     "image": "images/western-bleeding-heart.jpg",
     "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "western-bleeding-heart"
+  },
+  {
+    "common_name": "Western Hemlock",
+    "scientific_name": "Tsuga heterophylla",
+    "plant_type": "Tree",
+    "status": "none",
+    "garden_area": [],
+    "sun_requirements": "Full Sun to Full Shade (very shade tolerant)",
+    "water_needs": "Medium-High (moist, well-drained soils; drought intolerant; avoid standing water)",
+    "soil_type": "Rich, acidic, well-drained loam; consistently moist",
+    "image": "images/western-hemlock.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "western-hemlock"
   },
   {
     "common_name": "Western Trillium",
