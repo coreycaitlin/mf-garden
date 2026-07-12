@@ -338,6 +338,21 @@
     "slug": "lady-fern"
   },
   {
+    "common_name": "Licorice Fern",
+    "scientific_name": "Polypodium glycyrrhiza",
+    "plant_type": "Fern",
+    "status": "planted",
+    "garden_area": [
+      "back"
+    ],
+    "sun_requirements": "Part Shade to Full Shade (tolerates full sun with ample moisture)",
+    "water_needs": "Medium (consistent moisture in the growing season; summer-dormant \u2014 little to no summer water)",
+    "soil_type": "Well-drained, rich in organic matter; tolerates a range of soils where moisture is adequate",
+    "image": "images/licorice-fern.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "licorice-fern"
+  },
+  {
     "common_name": "Manzanita",
     "scientific_name": "Arctostaphylos columbiana",
     "plant_type": "Shrub",
@@ -845,5 +860,20 @@
     "image": "images/wild-ginger.jpg",
     "photo_credit": "Photo: Robert Flogaus-Faust | CC BY 4.0",
     "slug": "wild-ginger"
+  },
+  {
+    "common_name": "Woodland Strawberry",
+    "scientific_name": "Fragaria vesca",
+    "plant_type": "Perennial",
+    "status": "planted",
+    "garden_area": [
+      "back"
+    ],
+    "sun_requirements": "Full Sun to Part Shade (tolerates full shade in moist sites)",
+    "water_needs": "Low-Medium (regular to low; drought tolerant once established, with less fruit in dry shade)",
+    "soil_type": "Fertile, moist, well-drained; tolerates clay and ordinary garden soil",
+    "image": "images/woodland-strawberry.jpg",
+    "photo_credit": "Photo: Author Name | License",
+    "slug": "woodland-strawberry"
   }
 ]
