@@ -71,7 +71,7 @@ def extract_image_path(content: str) -> str | None:
 
 def extract_field(content: str, field_name: str) -> str:
     """Extract a field value from markdown content like '- **Field:** Value'."""
-    pattern = rf'^\s*-\s*\*\*{re.escape(field_name)}:\*\*\s*(.+)$'
+    pattern = rf'^\s*-\s*\*\*{re.escape(field_name)}:\*\*[ \t]*(.+)$'
     match = re.search(pattern, content, re.MULTILINE)
     if match:
         return match.group(1).strip()
