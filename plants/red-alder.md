@@ -9,7 +9,7 @@ garden_area: []
 
 # Red Alder
 ![Red Alder](../images/red-alder.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File%3AAlnus%20rubra%200020.JPG) | CC BY 2.5*
 
 ## Basic information
 - **Scientific name:** Alnus rubra

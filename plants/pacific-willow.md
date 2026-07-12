@@ -9,7 +9,7 @@ garden_area: []
 
 # Pacific Willow
 ![Pacific Willow](../images/pacific-willow.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Joe Decruyenaere](https://commons.wikimedia.org/wiki/File%3ASalix%20lasiandra%20%28Pacific%20Willow%29%2C%20Santa%20Rosa%20Plateau%2C%20Riverside%20County%2C%20California%20%2833627381326%29.jpg) | CC BY-SA 2.0*
 
 ## Basic information
 - **Scientific name:** Salix lucida ssp. lasiandra (syn. Salix lasiandra)

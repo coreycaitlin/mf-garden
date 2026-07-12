@@ -8,6 +8,9 @@ garden_area: ["back"]
 ---
 
 # Lady Fern
+![Lady Fern](../images/lady-fern.jpg)
+*Photo: [W.carter](https://commons.wikimedia.org/wiki/File%3ALady%20fern%20at%20Myrstigen%20trail%201.jpg) | CC0*
+
 
 ## Basic information
 - **Scientific name:** Athyrium filix-femina var. cyclosorum

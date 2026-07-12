@@ -9,7 +9,7 @@ garden_area: ["back"]
 
 # Woodland Strawberry
 ![Woodland Strawberry](../images/woodland-strawberry.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File%3AFragaria%20vesca%205048.JPG) | CC BY-SA 3.0*
 
 ## Basic information
 - **Scientific name:** Fragaria vesca

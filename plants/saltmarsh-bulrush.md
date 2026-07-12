@@ -9,7 +9,7 @@ garden_area: []
 
 # Saltmarsh Bulrush
 ![Saltmarsh Bulrush](../images/saltmarsh-bulrush.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Krzysztof Ziarnek, Kenraiz](https://commons.wikimedia.org/wiki/File%3ABolboschoenus%20maritimus%20kz08.jpg) | CC BY-SA 4.0*
 
 ## Basic information
 - **Scientific name:** Bolboschoenus maritimus

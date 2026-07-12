@@ -9,7 +9,7 @@ garden_area: []
 
 # Sitka Sedge
 ![Sitka Sedge](../images/sitka-sedge.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Andrey Zharkikh](https://commons.wikimedia.org/wiki/File%3ACarex%20aquatilis%20plant%20%2814%29.jpg) | CC BY 2.0*
 
 ## Basic information
 - **Scientific name:** Carex sitchensis (syn. Carex aquatilis var. dives)

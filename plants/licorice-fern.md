@@ -9,7 +9,7 @@ garden_area: ["back"]
 
 # Licorice Fern
 ![Licorice Fern](../images/licorice-fern.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Jhorthos](https://commons.wikimedia.org/wiki/File%3APolypodium%20glycyrrhiza%20JHT%20IMG%208646.jpg) | CC BY-SA 4.0*
 
 ## Basic information
 - **Scientific name:** Polypodium glycyrrhiza

@@ -9,7 +9,7 @@ garden_area: []
 
 # Hooker's Willow
 ![Hooker's Willow](../images/hookers-willow.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Maja Dumat](https://commons.wikimedia.org/wiki/File%3AWeide%20%28Salix%20hookeriana%29.jpg) | CC BY 2.0*
 
 ## Basic information
 - **Scientific name:** Salix hookeriana (Hooker's Willow, Dune Willow)

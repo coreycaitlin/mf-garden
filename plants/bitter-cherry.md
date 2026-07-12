@@ -9,7 +9,7 @@ garden_area: []
 
 # Bitter Cherry
 ![Bitter Cherry](../images/bitter-cherry.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File%3APrunus%20emarginata%2015419.JPG) | CC BY 2.5*
 
 ## Basic information
 - **Scientific name:** Prunus emarginata

@@ -9,7 +9,7 @@ garden_area: []
 
 # Gumweed
 ![Gumweed](../images/gumweed.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File%3AGrindelia%20integrifolia%202763.JPG) | CC BY-SA 3.0*
 
 ## Basic information
 - **Scientific name:** Grindelia integrifolia (Puget Sound Gumweed)
