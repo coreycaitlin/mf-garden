@@ -9,7 +9,7 @@ garden_area: []
 
 # Shore Pine
 ![Shore Pine](../images/shore-pine.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Walter Siegmund](https://commons.wikimedia.org/wiki/File%3APinus%20contorta%2028263.JPG) | CC BY 2.5*
 
 ## Basic information
 - **Scientific name:** Pinus contorta var. contorta

@@ -37,7 +37,7 @@
     "water_needs": "Low-Medium (moist forests and streamsides to open, drier sites; little supplemental water once established)",
     "soil_type": "Well-drained loam or sandy loam preferred; tolerates clay",
     "image": "images/bitter-cherry.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "bitter-cherry"
   },
   {
@@ -136,7 +136,7 @@
     "water_needs": "Low (drought tolerant once established; salt-spray tolerant)",
     "soil_type": "Sandy, well-drained soils; avoid heavy clay and rich/wet beds (prone to root rot)",
     "image": "images/dune-grass.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Keisotyo | CC BY-SA 4.0",
     "slug": "dune-grass"
   },
   {
@@ -249,7 +249,7 @@
     "water_needs": "Low (drought tolerant once established \u2014 wet in winter, dry in summer; salt-spray tolerant)",
     "soil_type": "Sandy to clay, well-drained; tolerant of poor, compacted, and saline soils",
     "image": "images/gumweed.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "gumweed"
   },
   {
@@ -262,7 +262,7 @@
     "water_needs": "High (emergent aquatic \u2014 saturated soil to standing water up to ~5 ft deep)",
     "soil_type": "Silts, loams, and organic sediments; tolerant of a range of soils if moist; high salinity tolerance",
     "image": "images/hardstem-bulrush.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "hardstem-bulrush"
   },
   {
@@ -288,7 +288,7 @@
     "water_needs": "High (coastal wet habitats \u2014 moist to wet soils)",
     "soil_type": "Sandy, loamy, or clay soils; tolerates saline soils",
     "image": "images/hookers-willow.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Maja Dumat | CC BY 2.0",
     "slug": "hookers-willow"
   },
   {
@@ -333,8 +333,8 @@
     "sun_requirements": "Part Shade/Full Shade (tolerates more sun with consistent moisture)",
     "water_needs": "Medium-High (needs consistent moisture; not drought tolerant)",
     "soil_type": "Moist, well-drained, rich, slightly acidic",
-    "image": null,
-    "photo_credit": "",
+    "image": "images/lady-fern.jpg",
+    "photo_credit": "Photo: W.carter | CC0",
     "slug": "lady-fern"
   },
   {
@@ -349,7 +349,7 @@
     "water_needs": "Medium (consistent moisture in the growing season; summer-dormant \u2014 little to no summer water)",
     "soil_type": "Well-drained, rich in organic matter; tolerates a range of soils where moisture is adequate",
     "image": "images/licorice-fern.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Jhorthos | CC BY-SA 4.0",
     "slug": "licorice-fern"
   },
   {
@@ -532,7 +532,7 @@
     "water_needs": "High (moist to wet soils; flood tolerant)",
     "soil_type": "Moist to wet gravelly, sandy, or clay soils",
     "image": "images/pacific-willow.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Joe Decruyenaere | CC BY-SA 2.0",
     "slug": "pacific-willow"
   },
   {
@@ -560,7 +560,7 @@
     "water_needs": "Medium-High (moist soils; tolerates wet, riparian sites)",
     "soil_type": "Wide range, from gravels and sands to clay; nitrogen-fixing improves poor mineral soils",
     "image": "images/red-alder.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "red-alder"
   },
   {
@@ -631,7 +631,7 @@
     "water_needs": "High (wetland \u2014 moist soil to ~1 ft standing water; tolerates inundation)",
     "soil_type": "Wet, saline or alkaline soils; clays to silt loams to sands; high salinity tolerance (halophyte)",
     "image": "images/saltmarsh-bulrush.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "saltmarsh-bulrush"
   },
   {
@@ -672,7 +672,7 @@
     "water_needs": "Low-Medium (highly adaptable \u2014 moist/boggy to well-drained or dry, nutrient-poor sites)",
     "soil_type": "Adaptable to many soils \u2014 peat bogs, sandy, gravelly, and nutrient-poor; salt-spray tolerant",
     "image": "images/shore-pine.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Walter Siegmund | CC BY 2.5",
     "slug": "shore-pine"
   },
   {
@@ -685,7 +685,7 @@
     "water_needs": "High (wet \u2014 saturated soils, shallow water)",
     "soil_type": "Adaptable; tolerates sandy, loamy, and clay soils; prefers consistently wet ground",
     "image": "images/sitka-sedge.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Andrey Zharkikh | CC BY 2.0",
     "slug": "sitka-sedge"
   },
   {
@@ -728,7 +728,7 @@
     "water_needs": "Medium-High (moist to wet; avoid stagnant waterlogging)",
     "soil_type": "Sandy, loamy, or peaty soils; acidic; salt-spray tolerant in shoreline plantings",
     "image": "images/sweetgale.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "sweetgale"
   },
   {
@@ -813,7 +813,7 @@
     "water_needs": "Medium-High (moist, well-drained soils; drought intolerant; avoid standing water)",
     "soil_type": "Rich, acidic, well-drained loam; consistently moist",
     "image": "images/western-hemlock.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "western-hemlock"
   },
   {
@@ -873,7 +873,7 @@
     "water_needs": "Low-Medium (regular to low; drought tolerant once established, with less fruit in dry shade)",
     "soil_type": "Fertile, moist, well-drained; tolerates clay and ordinary garden soil",
     "image": "images/woodland-strawberry.jpg",
-    "photo_credit": "Photo: Author Name | License",
+    "photo_credit": "Photo: Walter Siegmund | CC BY-SA 3.0",
     "slug": "woodland-strawberry"
   }
 ]

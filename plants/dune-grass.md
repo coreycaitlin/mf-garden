@@ -9,7 +9,7 @@ garden_area: []
 
 # Dune Grass
 ![Dune Grass](../images/dune-grass.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Keisotyo](https://commons.wikimedia.org/wiki/File%3ALeymus%20mollis%20tenkigs11.jpg) | CC BY-SA 4.0*
 
 ## Basic information
 - **Scientific name:** Leymus mollis (American Dunegrass)

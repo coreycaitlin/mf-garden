@@ -9,7 +9,7 @@ garden_area: []
 
 # Hardstem Bulrush
 ![Hardstem Bulrush](../images/hardstem-bulrush.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Krzysztof Ziarnek, Kenraiz](https://commons.wikimedia.org/wiki/File%3ASchoenoplectus%20acutus%20kz01.jpg) | CC BY-SA 4.0*
 
 ## Basic information
 - **Scientific name:** Schoenoplectus acutus

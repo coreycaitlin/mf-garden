@@ -9,7 +9,7 @@ garden_area: []
 
 # Western Hemlock
 ![Western Hemlock](../images/western-hemlock.jpg)
-*Photo: [Author Name](wikimedia-source-url) | License*
+*Photo: [Krzysztof Ziarnek, Kenraiz](https://commons.wikimedia.org/wiki/File%3ATsuga%20heterophylla%20kz10.jpg) | CC BY-SA 4.0*
 
 ## Basic information
 - **Scientific name:** Tsuga heterophylla
