@@ -33,6 +33,7 @@ Native plant garden in PNW
 | [Idaho Fescue](plants/idaho-fescue.md) | *Festuca idahoensis* | Grass |
 | [Inside-out Flower](plants/inside-out-flower.md) | *Vancouveria hexandra* | Perennial |
 | [Lady Fern](plants/lady-fern.md) | *Athyrium filix-femina var. cyclosorum* | Fern |
+| [Licorice Fern](plants/licorice-fern.md) | *Polypodium glycyrrhiza* | Fern |
 | [Manzanita](plants/manzanita.md) | *Arctostaphylos columbiana* | Shrub |
 | [Meadow Checkermallow](plants/meadow-checkermallow.md) | *Sidalcea campestris* | Perennial |
 | [Mock Orange](plants/mock-orange.md) | *Philadelphus lewisii* | Shrub |
@@ -68,6 +69,7 @@ Native plant garden in PNW
 | [Western Trillium](plants/western-trillium.md) | *Trillium ovatum* | Perennial |
 | [White Yarrow](plants/white-yarrow.md) | *Achillea millefolium* | Perennial |
 | [Wild Ginger](plants/wild-ginger.md) | *Asarum caudatum* | Perennial |
+| [Woodland Strawberry](plants/woodland-strawberry.md) | *Fragaria vesca* | Perennial |
 <!-- PLANT_INDEX_END -->
 
 ## Adding a New Plant

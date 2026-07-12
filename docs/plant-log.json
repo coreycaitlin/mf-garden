@@ -468,5 +468,55 @@
     "planted_date": "2026-04-26",
     "grid_location": null,
     "notes": ""
+  },
+  {
+    "id": "log-048",
+    "plant_slug": "woodland-strawberry",
+    "purchase_date": "2026-07-05",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-07-05",
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-049",
+    "plant_slug": "licorice-fern",
+    "purchase_date": "2026-07-05",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-07-05",
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-050",
+    "plant_slug": "woodland-strawberry",
+    "purchase_date": "2026-07-05",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-07-05",
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-051",
+    "plant_slug": "woodland-strawberry",
+    "purchase_date": "2026-07-05",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-07-05",
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-052",
+    "plant_slug": "licorice-fern",
+    "purchase_date": "2026-07-05",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-07-05",
+    "grid_location": null,
+    "notes": ""
   }
 ]
