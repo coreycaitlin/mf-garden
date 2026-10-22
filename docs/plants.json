@@ -153,6 +153,19 @@
     "slug": "dwarf-snowberry"
   },
   {
+    "common_name": "Early Blue Violet",
+    "scientific_name": "Viola adunca",
+    "plant_type": "Perennial",
+    "status": "purchased",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Shade (sun on the coast, light shade inland)",
+    "water_needs": "Medium; prefers moist soil but tolerates some dryness",
+    "soil_type": "Well-drained, sandy to loamy",
+    "image": null,
+    "photo_credit": "",
+    "slug": "early-blue-violet"
+  },
+  {
     "common_name": "Evergreen Huckleberry",
     "scientific_name": "Vaccinium ovatum",
     "plant_type": "Shrub",
@@ -648,6 +661,19 @@
     "image": "images/seaside-daisy.jpg",
     "photo_credit": "Photo: \u0412\u0432\u043b\u0430\u0441\u0435\u043d\u043a\u043e | CC BY 4.0",
     "slug": "seaside-daisy"
+  },
+  {
+    "common_name": "Self-heal",
+    "scientific_name": "Prunella vulgaris ssp. lanceolata",
+    "plant_type": "Perennial",
+    "status": "purchased",
+    "garden_area": [],
+    "sun_requirements": "Full Sun/Part Sun",
+    "water_needs": "Low-Medium; generally stays green through PNW summers without irrigation",
+    "soil_type": "Generally moist soils",
+    "image": null,
+    "photo_credit": "",
+    "slug": "self-heal"
   },
   {
     "common_name": "Western Serviceberry",
