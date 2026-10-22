@@ -57,7 +57,7 @@
     "common_name": "Cascade Penstemon",
     "scientific_name": "Penstemon serrulatus",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "purchased",
     "garden_area": [
       "front"
     ],
@@ -308,7 +308,7 @@
     "common_name": "Idaho Fescue",
     "scientific_name": "Festuca idahoensis",
     "plant_type": "Grass",
-    "status": "planned",
+    "status": "purchased",
     "garden_area": [
       "front"
     ],
@@ -483,7 +483,7 @@
     "common_name": "Oregon Stonecrop",
     "scientific_name": "Sedum oreganum",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "purchased",
     "garden_area": [],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (very drought tolerant)",

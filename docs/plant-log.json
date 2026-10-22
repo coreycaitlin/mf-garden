@@ -518,5 +518,195 @@
     "planted_date": "2026-07-05",
     "grid_location": null,
     "notes": ""
+  },
+  {
+    "id": "log-053",
+    "plant_slug": "early-blue-violet",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-054",
+    "plant_slug": "early-blue-violet",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-055",
+    "plant_slug": "oregon-stonecrop",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-056",
+    "plant_slug": "oregon-stonecrop",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-057",
+    "plant_slug": "idaho-fescue",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-058",
+    "plant_slug": "idaho-fescue",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-059",
+    "plant_slug": "idaho-fescue",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-060",
+    "plant_slug": "idaho-fescue",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-061",
+    "plant_slug": "idaho-fescue",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-062",
+    "plant_slug": "idaho-fescue",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-063",
+    "plant_slug": "piggyback-plant",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-064",
+    "plant_slug": "piggyback-plant",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-065",
+    "plant_slug": "fringecup",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-066",
+    "plant_slug": "fringecup",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-067",
+    "plant_slug": "self-heal",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-068",
+    "plant_slug": "self-heal",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-069",
+    "plant_slug": "cascade-penstemon",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "1 gallon",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-070",
+    "plant_slug": "sword-fern",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-071",
+    "plant_slug": "sword-fern",
+    "purchase_date": "2026-10-18",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
   }
 ]
