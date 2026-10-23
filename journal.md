@@ -2,7 +2,7 @@
 
 Newest entries first.
 
-## 2026-10-23: Front northwest corner, second plantings
+## 2026-10-22: Front northwest corner, second plantings
 
 Planted 4 seaside daisy (from MSK), 3 Douglas iris, and the 4th sword fern. All 4 sword ferns are in now.
 
