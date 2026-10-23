@@ -708,5 +708,85 @@
     "planted_date": null,
     "grid_location": null,
     "notes": ""
+  },
+  {
+    "id": "log-072",
+    "plant_slug": "seaside-daisy",
+    "purchase_date": "2026-10-18",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-23",
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-073",
+    "plant_slug": "seaside-daisy",
+    "purchase_date": "2026-10-18",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-23",
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-074",
+    "plant_slug": "seaside-daisy",
+    "purchase_date": "2026-10-18",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-23",
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-075",
+    "plant_slug": "seaside-daisy",
+    "purchase_date": "2026-10-18",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-23",
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-076",
+    "plant_slug": "oregon-checkermallow",
+    "purchase_date": "2026-10-18",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-077",
+    "plant_slug": "oregon-checkermallow",
+    "purchase_date": "2026-10-18",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-078",
+    "plant_slug": "oregon-checkermallow",
+    "purchase_date": "2026-10-18",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
+  },
+  {
+    "id": "log-079",
+    "plant_slug": "oregon-checkermallow",
+    "purchase_date": "2026-10-18",
+    "source": "MSK Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": ""
   }
 ]

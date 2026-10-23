@@ -100,7 +100,7 @@
     "common_name": "Douglas Iris",
     "scientific_name": "Iris douglasiana",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -455,7 +455,7 @@
     "common_name": "Oregon Checkermallow",
     "scientific_name": "Sidalcea oregana",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "purchased",
     "garden_area": [
       "front"
     ],
@@ -651,7 +651,7 @@
     "common_name": "Seaside Daisy",
     "scientific_name": "Erigeron glaucus",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -761,7 +761,7 @@
     "common_name": "Sword Fern",
     "scientific_name": "Polystichum munitum",
     "plant_type": "Fern",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front",
       "back"
@@ -777,7 +777,7 @@
     "common_name": "Tufted Hair Grass",
     "scientific_name": "Deschampsia cespitosa",
     "plant_type": "Grass",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
