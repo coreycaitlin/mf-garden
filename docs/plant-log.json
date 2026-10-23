@@ -858,5 +858,15 @@
     "planted_date": "2026-10-21",
     "grid_location": null,
     "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-087",
+    "plant_slug": "white-yarrow",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": "Neighborhood sale"
   }
 ]
