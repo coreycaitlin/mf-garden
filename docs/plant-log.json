@@ -695,7 +695,7 @@
     "purchase_date": "2026-10-18",
     "source": "Go Natives! Nursery",
     "pot_size": "4 inch",
-    "planted_date": null,
+    "planted_date": "2026-10-21",
     "grid_location": null,
     "notes": ""
   },
@@ -705,7 +705,7 @@
     "purchase_date": "2026-10-18",
     "source": "Go Natives! Nursery",
     "pot_size": "4 inch",
-    "planted_date": null,
+    "planted_date": "2026-10-23",
     "grid_location": null,
     "notes": ""
   },
@@ -788,5 +788,75 @@
     "planted_date": null,
     "grid_location": null,
     "notes": ""
+  },
+  {
+    "id": "log-080",
+    "plant_slug": "douglas-iris",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-23",
+    "grid_location": null,
+    "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-081",
+    "plant_slug": "douglas-iris",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-23",
+    "grid_location": null,
+    "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-082",
+    "plant_slug": "douglas-iris",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-23",
+    "grid_location": null,
+    "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-083",
+    "plant_slug": "tufted-hair-grass",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-21",
+    "grid_location": null,
+    "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-084",
+    "plant_slug": "tufted-hair-grass",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-21",
+    "grid_location": null,
+    "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-085",
+    "plant_slug": "sword-fern",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-21",
+    "grid_location": null,
+    "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-086",
+    "plant_slug": "sword-fern",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-21",
+    "grid_location": null,
+    "notes": "Neighborhood sale"
   }
 ]

@@ -8,7 +8,7 @@ Planted 4 seaside daisy (from MSK), 3 Douglas iris, and the 4th sword fern. All 
 
 ## 2026-10-21: Front northwest corner, first plantings
 
-Planted 5 in the bed right of the path: 2 tufted hair grass (*Deschampsia*) and 3 sword ferns. Plants came from the 10-18 native plant sale (Go Natives! and MSK).
+Planted 5 in the bed right of the path: 2 tufted hair grass (*Deschampsia*) and 3 sword ferns. Plants came from Go Natives! (10-17 neighborhood sale and 10-18).
 
 **Layout**
 - The existing rose isn't centered the way the design assumed, so I'm adjusting a little to fill in around it.
