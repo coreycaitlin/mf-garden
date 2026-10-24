@@ -888,5 +888,15 @@
     "planted_date": "2026-10-24",
     "grid_location": null,
     "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-090",
+    "plant_slug": "sword-fern",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-24",
+    "grid_location": null,
+    "notes": "Neighborhood sale; planted in back"
   }
 ]
