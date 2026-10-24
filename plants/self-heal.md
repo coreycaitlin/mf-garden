@@ -1,6 +1,6 @@
 ---
 common_name: "Self-heal"
-scientific_name: "Prunella vulgaris ssp. lanceolata"
+scientific_name: "Prunella vulgaris"
 plant_type: "Perennial"
 layer: ""
 status: "planted"
@@ -10,10 +10,10 @@ garden_area: ["back"]
 # Self-heal
 
 ## Basic information
-- **Scientific name:** Prunella vulgaris ssp. lanceolata
+- **Scientific name:** Prunella vulgaris (plant tag gives no subspecies)
 - **Plant type:** Herbaceous Perennial
 - **USDA zones:**
-- **Native region:** Pacific Northwest and much of the rest of the U.S. (ssp. *vulgaris* is the introduced Eurasian form)
+- **Native region:** ssp. *lanceolata* is native to the Pacific Northwest and much of the rest of the U.S.; ssp. *vulgaris* is the introduced Eurasian form. Which subspecies these plants are is unconfirmed
 
 ## Growth characteristics
 - **Mature height:** 12-18 inches
@@ -61,7 +61,7 @@ garden_area: ["back"]
 ## Notes
 - **Design notes:** Works as a native groundcover or lawn alternative; forms a dense mat with small leaves when repeatedly mowed
 - **Observations:**
-- **Challenges:** Self-seeds. The native subspecies has narrower mid-stem leaves than the introduced one; check the label
+- **Challenges:** Self-seeds. The native subspecies has narrower mid-stem leaves than the introduced one, which may help tell which these are
 
 ## Sources
 - Oregon State University Garden Ecology Lab, Plant of the Week: https://blogs.oregonstate.edu/gardenecologylab/?p=3233
