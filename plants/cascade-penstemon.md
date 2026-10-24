@@ -3,7 +3,7 @@ common_name: "Cascade Penstemon"
 scientific_name: "Penstemon serrulatus"
 plant_type: "Perennial"
 layer: "seasonal_theme"
-status: "purchased"
+status: "planted"
 garden_area: ["front"]
 ---
 

@@ -3,7 +3,7 @@ common_name: "Oregon Checkermallow"
 scientific_name: "Sidalcea oregana"
 plant_type: "Perennial"
 layer: "seasonal_theme"
-status: "purchased"
+status: "planted"
 garden_area: ["front"]
 ---
 
