@@ -4,7 +4,7 @@ Newest entries first.
 
 ## 2026-10-23: Third plantings
 
-Planted all 4 Oregon checkermallow, the Cascade penstemon, the yarrow, and both piggyback plants.
+Planted in the front: all 4 Oregon checkermallow, the Cascade penstemon, the yarrow, both piggyback plants, and both Oregon stonecrop.
 
 ## 2026-10-22: Front northwest corner, second plantings
 

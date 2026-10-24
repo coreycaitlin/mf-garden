@@ -483,8 +483,10 @@
     "common_name": "Oregon Stonecrop",
     "scientific_name": "Sedum oreganum",
     "plant_type": "Perennial",
-    "status": "purchased",
-    "garden_area": [],
+    "status": "planted",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (very drought tolerant)",
     "soil_type": "Well-drained, rocky, sandy; tolerates poor soils",
@@ -554,6 +556,7 @@
     "plant_type": "Perennial",
     "status": "planted",
     "garden_area": [
+      "front",
       "back"
     ],
     "sun_requirements": "Part Shade/Full Shade",

@@ -4,7 +4,7 @@ scientific_name: "Tolmiea menziesii"
 plant_type: "Perennial"
 layer: "groundcover"
 status: "planted"
-garden_area: ["back"]
+garden_area: ["front", "back"]
 ---
 
 # Piggyback Plant
