@@ -3,8 +3,8 @@ common_name: "Self-heal"
 scientific_name: "Prunella vulgaris ssp. lanceolata"
 plant_type: "Perennial"
 layer: ""
-status: "purchased"
-garden_area: []
+status: "planted"
+garden_area: ["back"]
 ---
 
 # Self-heal

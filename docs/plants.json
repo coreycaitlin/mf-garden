@@ -310,7 +310,7 @@
     "common_name": "Idaho Fescue",
     "scientific_name": "Festuca idahoensis",
     "plant_type": "Grass",
-    "status": "purchased",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -671,8 +671,10 @@
     "common_name": "Self-heal",
     "scientific_name": "Prunella vulgaris ssp. lanceolata",
     "plant_type": "Perennial",
-    "status": "purchased",
-    "garden_area": [],
+    "status": "planted",
+    "garden_area": [
+      "back"
+    ],
     "sun_requirements": "Full Sun/Part Sun",
     "water_needs": "Low-Medium; generally stays green through PNW summers without irrigation",
     "soil_type": "Generally moist soils",
