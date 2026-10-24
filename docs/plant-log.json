@@ -868,5 +868,25 @@
     "planted_date": "2026-10-23",
     "grid_location": null,
     "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-088",
+    "plant_slug": "fringecup",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": "2026-10-24",
+    "grid_location": null,
+    "notes": "Neighborhood sale"
+  },
+  {
+    "id": "log-089",
+    "plant_slug": "fringecup",
+    "purchase_date": "2026-10-17",
+    "source": "Go Natives! Nursery",
+    "pot_size": "4 inch",
+    "planted_date": null,
+    "grid_location": null,
+    "notes": "Neighborhood sale"
   }
 ]
