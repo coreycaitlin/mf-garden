@@ -2,6 +2,14 @@
 
 Newest entries first.
 
+## 2026-10-24: Fourth plantings, soil amendments, mesh hoops
+
+Planted 3 fringecup and 2 early blue violets.
+
+Picked up soil, fertilizer, and compost at Walt's Organic.
+
+Jon made hardware mesh hoops to protect the plants. So far they're around all the Oregon checkermallow, the Douglas iris, and the yarrow.
+
 ## 2026-10-23: Third plantings
 
 Planted in the front: all 4 Oregon checkermallow, the Cascade penstemon, the yarrow, both piggyback plants, and both Oregon stonecrop.

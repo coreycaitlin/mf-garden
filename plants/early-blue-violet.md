@@ -3,7 +3,7 @@ common_name: "Early Blue Violet"
 scientific_name: "Viola adunca"
 plant_type: "Perennial"
 layer: ""
-status: "purchased"
+status: "planted"
 garden_area: []
 ---
 
