@@ -4,7 +4,7 @@ Newest entries first.
 
 ## 2026-10-24: Fourth plantings, soil amendments, mesh hoops
 
-Planted 3 fringecup and 2 early blue violets.
+Planted in the front this morning: 3 fringecup and 2 early blue violets.
 
 Picked up soil, fertilizer, and compost at Walt's Organic.
 

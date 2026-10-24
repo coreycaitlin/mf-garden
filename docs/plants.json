@@ -157,7 +157,9 @@
     "scientific_name": "Viola adunca",
     "plant_type": "Perennial",
     "status": "planted",
-    "garden_area": [],
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade (sun on the coast, light shade inland)",
     "water_needs": "Medium; prefers moist soil but tolerates some dryness",
     "soil_type": "Well-drained, sandy to loamy",

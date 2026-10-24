@@ -4,7 +4,7 @@ scientific_name: "Viola adunca"
 plant_type: "Perennial"
 layer: ""
 status: "planted"
-garden_area: []
+garden_area: ["front"]
 ---
 
 # Early Blue Violet
