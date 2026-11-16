@@ -20,6 +20,7 @@ Native plant garden in PNW
 | [Dr. Hurd Manzanita](plants/dr-hurd-manzanita.md) | *Arctostaphylos manzanita 'Dr. Hurd'* | Shrub |
 | [Dune Grass](plants/dune-grass.md) | *Leymus mollis* | Grass |
 | [Dwarf Snowberry](plants/dwarf-snowberry.md) | *Symphoricarpos mollis* | Shrub |
+| [Early Blue Violet](plants/early-blue-violet.md) | *Viola adunca* | Perennial |
 | [Evergreen Huckleberry](plants/evergreen-huckleberry.md) | *Vaccinium ovatum* | Shrub |
 | [False Solomon's Seal](plants/false-solomons-seal.md) | *Maianthemum racemosum* | Perennial |
 | [Flowering Currant](plants/flowering-currant.md) | *Ribes sanguineum* | Shrub |
@@ -54,6 +55,7 @@ Native plant garden in PNW
 | [Salal](plants/salal.md) | *Gaultheria shallon* | Shrub |
 | [Saltmarsh Bulrush](plants/saltmarsh-bulrush.md) | *Bolboschoenus maritimus* | Grass |
 | [Seaside Daisy](plants/seaside-daisy.md) | *Erigeron glaucus* | Perennial |
+| [Self-heal](plants/self-heal.md) | *Prunella vulgaris* | Perennial |
 | [Shore Pine](plants/shore-pine.md) | *Pinus contorta* | Tree |
 | [Sitka Sedge](plants/sitka-sedge.md) | *Carex sitchensis* | Grass |
 | [Stinging Nettle](plants/stinging-nettle.md) | *Urtica dioica* | Perennial |
