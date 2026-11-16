@@ -57,7 +57,7 @@
     "common_name": "Cascade Penstemon",
     "scientific_name": "Penstemon serrulatus",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -100,7 +100,7 @@
     "common_name": "Douglas Iris",
     "scientific_name": "Iris douglasiana",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -151,6 +151,21 @@
     "image": "images/dwarf-snowberry.jpg",
     "photo_credit": "Photo: Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0",
     "slug": "dwarf-snowberry"
+  },
+  {
+    "common_name": "Early Blue Violet",
+    "scientific_name": "Viola adunca",
+    "plant_type": "Perennial",
+    "status": "planted",
+    "garden_area": [
+      "front"
+    ],
+    "sun_requirements": "Full Sun/Part Shade (sun on the coast, light shade inland)",
+    "water_needs": "Medium; prefers moist soil but tolerates some dryness",
+    "soil_type": "Well-drained, sandy to loamy",
+    "image": null,
+    "photo_credit": "",
+    "slug": "early-blue-violet"
   },
   {
     "common_name": "Evergreen Huckleberry",
@@ -295,7 +310,7 @@
     "common_name": "Idaho Fescue",
     "scientific_name": "Festuca idahoensis",
     "plant_type": "Grass",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -442,7 +457,7 @@
     "common_name": "Oregon Checkermallow",
     "scientific_name": "Sidalcea oregana",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -470,8 +485,10 @@
     "common_name": "Oregon Stonecrop",
     "scientific_name": "Sedum oreganum",
     "plant_type": "Perennial",
-    "status": "planned",
-    "garden_area": [],
+    "status": "planted",
+    "garden_area": [
+      "front"
+    ],
     "sun_requirements": "Full Sun/Part Shade",
     "water_needs": "Low (very drought tolerant)",
     "soil_type": "Well-drained, rocky, sandy; tolerates poor soils",
@@ -541,6 +558,7 @@
     "plant_type": "Perennial",
     "status": "planted",
     "garden_area": [
+      "front",
       "back"
     ],
     "sun_requirements": "Part Shade/Full Shade",
@@ -638,7 +656,7 @@
     "common_name": "Seaside Daisy",
     "scientific_name": "Erigeron glaucus",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -648,6 +666,21 @@
     "image": "images/seaside-daisy.jpg",
     "photo_credit": "Photo: \u0412\u0432\u043b\u0430\u0441\u0435\u043d\u043a\u043e | CC BY 4.0",
     "slug": "seaside-daisy"
+  },
+  {
+    "common_name": "Self-heal",
+    "scientific_name": "Prunella vulgaris",
+    "plant_type": "Perennial",
+    "status": "planted",
+    "garden_area": [
+      "back"
+    ],
+    "sun_requirements": "Full Sun/Part Sun",
+    "water_needs": "Low-Medium; generally stays green through PNW summers without irrigation",
+    "soil_type": "Generally moist soils",
+    "image": null,
+    "photo_credit": "",
+    "slug": "self-heal"
   },
   {
     "common_name": "Western Serviceberry",
@@ -735,7 +768,7 @@
     "common_name": "Sword Fern",
     "scientific_name": "Polystichum munitum",
     "plant_type": "Fern",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front",
       "back"
@@ -751,7 +784,7 @@
     "common_name": "Tufted Hair Grass",
     "scientific_name": "Deschampsia cespitosa",
     "plant_type": "Grass",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],
@@ -835,7 +868,7 @@
     "common_name": "White Yarrow",
     "scientific_name": "Achillea millefolium",
     "plant_type": "Perennial",
-    "status": "planned",
+    "status": "planted",
     "garden_area": [
       "front"
     ],

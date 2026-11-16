@@ -3,7 +3,7 @@ common_name: "Douglas Iris"
 scientific_name: "Iris douglasiana"
 plant_type: "Perennial"
 layer: "seasonal_theme"
-status: "planned"
+status: "planted"
 garden_area: ["front"]
 ---
 
